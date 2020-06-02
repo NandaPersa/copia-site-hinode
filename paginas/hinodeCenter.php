@@ -14,27 +14,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="Q6zbIJpj-zQZbhRw5SDdhWBP-IcPWRiKUnhvFkYDXCQ" />
     <link rel="stylesheet" href="../assets/website/css/estilo-20190822.css?v=1">
-    <script src="/assets/website/js/jquery-3.2.1.min.js"></script>
-    <script src="/assets/website/js/jquery.validate.min.js"></script>
-    <script src="/assets/website/js/slick.min.js"></script>
-    <script src="/assets/website/js/jquery.mask.js"></script>
-    <link rel="stylesheet" href="/assets/website/css/slick.css">
-    <link rel="stylesheet" href="/assets/website/css/map-styles.css">
+    <script src="../assets/website/js/jquery-3.2.1.min.js"></script>
+    <script src="../assets/website/js/jquery.validate.min.js"></script>
+    <script src="../assets/website/js/slick.min.js"></script>
+    <script src="../assets/website/js/jquery.mask.js"></script>
+    <link rel="stylesheet" href="../assets/website/css/slick.css">
+    <link rel="stylesheet" href="../assets/website/css/map-styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/css/inputmask.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdbJmnnwSV-R5bzygMolEHUkLhVkxS1Jc"></script>
     <script type="text/javascript" src="https://hinode.teleperformance.com.br/HinodeWebApi/AppChat2/chatTP.js"></script>
     <link rel="shortcut icon" href="/assets/website/images/favicon.png">
-    <script src="/assets/website/js/snazzy-info-window.js"></script>
-    <title>Universidade Hinode | Grupo Hinode</title>
-<meta name="description" content="Cursos, treinamentos, eventos e diversos conte&uacute;dos para seu aperfei&ccedil;oamento. Saiba tudo o que a Universidade Hinode pode oferecer a voc&ecirc;. Confira!">
-<link rel="canonical" href="https://grupohinode.com/universidade-hinode"/>
-<meta property="og:title" content="Universidade Hinode | Grupo Hinode" />
-<meta property="og:description" content="Cursos, treinamentos, eventos e diversos conte&uacute;dos para seu aperfei&ccedil;oamento. Saiba tudo o que a Universidade Hinode pode oferecer a voc&ecirc;. Confira!" />
+    <script src="../assets/website/js/snazzy-info-window.js"></script>
+    <title>Hinode Center | Grupo Hinode</title>
+<meta name="description" content="Retire e experimente produtos, participe de cursos e treinamentos e torne-se um consultor do Grupo Hinode no Hinode Center! Confira!">
+<link rel="canonical" href="https://grupohinode.com/hinode-center"/>
+<meta property="og:title" content="Hinode Center | Grupo Hinode" />
+<meta property="og:description" content="Retire e experimente produtos, participe de cursos e treinamentos e torne-se um consultor do Grupo Hinode no Hinode Center! Confira!" />
 <meta property="og:image" content="https://grupohinode.com/assets/website/images/grupo-hinode-fb-image.jpg" />
 
-<meta name="twitter:title" content="Universidade Hinode | Grupo Hinode" />
-<meta name="twitter:description" content="Cursos, treinamentos, eventos e diversos conte&uacute;dos para seu aperfei&ccedil;oamento. Saiba tudo o que a Universidade Hinode pode oferecer a voc&ecirc;. Confira!" />
+<meta name="twitter:title" content="Hinode Center | Grupo Hinode" />
+<meta name="twitter:description" content="Retire e experimente produtos, participe de cursos e treinamentos e torne-se um consultor do Grupo Hinode no Hinode Center! Confira!" />
 
     <style>
         .input-datepicker {
@@ -44,10 +44,7 @@
 </head>
 <body>
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6GVZV8"
-                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+   
     <div class="wrap-header-total">
   <header class="header">
     <div class="grid1240">
@@ -58,14 +55,7 @@
         </a>
       </h1>
       <div class="wrap-right buttons-menu">
-        <div class="itens-lang">
-          <span>LANGUAGE</span>
-          <ul>
-            <li><a href="//grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-pt.png" alt="">PORTUGUES</a></li>
-            <li><a href="//en.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-en.png" alt="">ENGLISH</a></li>
-            <li><a href="//co.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-es.png" alt="">ESPANHOL</a></li>
-          </ul>
-        </div>
+        
         <a href="https://escritorio.hinode.com.br/login" class="btn-entrar" target="_blank">VIRTUAL OFFICE</a>
       </div>
       </div>
@@ -83,38 +73,38 @@
                 <nav class="menu-main">
           <ul class="list-menu-main">
                <li class='item-menu-main'>
-              <a href="grupoHinode.html" class="link-menu-main">
+              <a href="grupoHinode.php" class="link-menu-main">
                 <span>O GRUPO HINODE</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="nossaMarcas.html" class="link-menu-main">
+              <a href="nossaMarcas.php" class="link-menu-main">
                 <span>NOSSAS MARCAS</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="consultores.html" class="link-menu-main">
+              <a href="consultores.php" class="link-menu-main">
                 <span>CONSULTORES(AS)</span>
               </a> 
             </li>
-            <li class='item-menu-main'>
-              <a href="hinodeCenter.html" class="link-menu-main">
+            <li 
+              class='item-menu-main selected'>
+              <a href="hinodeCenter.php" class="link-menu-main">
                 <span>HINODE CENTER</span>
               </a>
             </li>
-            <li 
-              class='item-menu-main selected'>
-              <a href="universidadeHinode.html" class="link-menu-main">
+            <li class='item-menu-main'>
+              <a href="universidadeHinode.php" class="link-menu-main">
                 <span>UNIVERSIDADE HINODE</span>
               </a>
             </li>
                         <li class='item-menu-main item-hide-m'>
-              <a href="acontece.html" class="link-menu-main">
+              <a href="acontece.php" class="link-menu-main">
                 <span>ACONTECE</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="calendario.html" class="link-menu-main">
+              <a href="calendario.php" class="link-menu-main">
                 <span>CALENDÁRIO</span>
               </a>
             </li>
@@ -298,185 +288,112 @@
 
     <div id="app">
         
-    <div class="wrap-sub-menu">
-    <nav class="grid1240">
-        <ul class="list-sub-menu itens-center">
-                            <li class="item-sub-menu"><a class="link-sub-menu" href="#conteudo">CONTEÚDO</a></li>
-                            <li class="item-sub-menu"><a class="link-sub-menu" href="#perolas">PÉROLAS</a></li>
-                            <li class="item-sub-menu"><a class="link-sub-menu" href="#cursos">CURSOS</a></li>
-                    </ul>
-    </nav>
-</div>
-    <div class="wrap-universidade-mkt">
-    <section class="wrap-marketing">
-                    <div class="slider-universidade-txt">
-                <div class="item background-universidade background-universidade-slider-1">
-                    <img src="https://grupohinode.com/assets/website/images/slider-universidade-1.png" alt="">
-                    <div class="grid930">
-                        <div class="content-txt">
-                            <h2 class="title-slider-white">Aprenda com os <br/>melhores</h2>
-                            <p class="txt-slider-white">Aqui você tem acesso aos conteúdos <br/>de treinamentos e cursos
-                            para <br/>aprimorar suas técnicas de vendas.</p>
-                            <a href="https://universidade.grupohinode.com" class="btn-default">ACESSE A UNIVERSIDADE HINODE</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-                    <div class="slider-universidade-txt">
-                <div class="item background-universidade background-universidade-slider-1">
-                    <img src="https://grupohinode.com/assets/website/images/slider-universidade-3.png" alt="">
-                    <div class="grid930">
-                        <div class="content-txt">
-                            <h2 class="title-slider-white">SEJA UM LÍDER <br/>DE SUCESSO</h2>
-                            <p class="txt-slider-white">Oferecemos Cursos e Treinamentos <br/>que proporcionam seu
-                            desenvolvimento <br/>pessoal e ferramentas para você <br/>desenvolver seu negócio</p>
-                            <a href="https://universidade.grupohinode.com" class="btn-default">ACESSE A UNIVERSIDADE HINODE</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </section>
-    <div class="append-arrows append-slider-marketing"></div>
-</div>
-    <div class="grid100 wrap-100-btn">
-    <div class="item">
-        <img class="img-university" src="https://grupohinode.com/assets/website/images/wrap-universidade-1.png" alt="">
-        <div class="content-slide-txt">
-            <h3>MISSÃO</h3>
-            <p>Formar os maiores e melhores líderes da indústria do marketing multinível, por meio de um sistema de
-                treinamento constante e atualizado.</p>
+	<div class="wrap-sliders-hinode">
+    <div class="slider">
+                <div class="slide" style="background-image: url(https://grupohinode.com/assets/website/images/hinode-center-slider-2.jpg)">
         </div>
-    </div>
-    <div class="item">
-        <img class="img-university" src="https://grupohinode.com/assets/website/images/wrap-universidade-2.png" alt="">
-        <div class="content-slide-txt">
-            <h3>VISÃO</h3>
-            <p>Ser a maior e mais flexível ferramenta global de ensino colaborativo e compartilhado das boas
-                práticas da venda direta.</p>
+                <div class="slide" style="background-image: url(https://grupohinode.com/assets/website/images/hinode-center-slider-3.jpg)">
+        </div>
+                <div class="slide" style="background-image: url(https://grupohinode.com/assets/website/images/slider-hinode-center-4.jpg)">
+        </div>
+            </div>
+    <div class="append-arrows"></div>
+    <div class="grid-slider">
+        <div class="txt-banner-white">
+            <h2>FAÇA PARTE<br />E VENÇA JUNTO<br /> COM A GENTE</h2>
+            <p>
+                O Grupo Hinode possui duas marcas<br />
+                        consolidadas no mercado com cerca de 600<br />
+                        produtos, dentre eles perfumaria, bem-estar,<br />
+                        higiene pessoal, maquiagem e cosméticos.
+            </p>
+            <a href="#seja-um-franqueado" class="btn-default">SEJA UM FRANQUEADO</a>
         </div>
     </div>
 </div>
-    <div class="wrap-valores-solidos" style="background: #00002D;">
-    <h4 class="title-default">CONSTRUÍDA COM <br/>VALORES SÓLIDOS</h4>
-    <ul class="grid930">
-                    <li>
-                <h5>INOVAÇÃO</h5>
-                <p>Processo contínuo de inovação, na busca das formas de ensino e aprendizagem mais diversas possíveis.</p>
-            </li>
-                    <li>
-                <h5>ÉTICA</h5>
-                <p>Acreditamos que liderança e valores são inseparáveis. A ética deve permear todos os campos da
-                formação de um grande líder. Valores comunitários de respeito mútuo, integridade e honestidade devem
-                estar presentes em todas as interações do aprendizado.</p>
-            </li>
-                    <li>
-                <h5>COMPARTILHAMENTO</h5>
-                <p>A UH é coletiva e interdependente e busca promover a socialização do saber. Só poderemos cumprir
-                nossa missão se contarmos uns com os outros. Somente através de nosso compromisso pessoal de
-                compartilhar nossas experiências poderemos criar o melhor ambiente, onde cada um poderá atingir todo
-                o seu potencial.</p>
-            </li>
-            </ul>
-</div>
-    <section class="wrap-add-recent">
-    <h3 class="title-default" id="conteudo">CONTEÚDO</h3>
-    <p class="txt-section-default">Veja alguns vídeos.</p>
+	<section class="wrap-hinode-center">
+    <h3 class="title-section-default">Um lugar completo</h3>
     <div class="grid940">
-        <div class="list-videos-capacitacao">
-            <div class="wrap-principal-video">
-                <iframe src="https://www.youtube.com/embed/4CoEDySiALk" allowfullscreen class="principal-video"
-                        data-url="4CoEDySiALk" data-time="18:31"
-                        title="Treinamento com o Presidente Sandro Rodrigues"></iframe>
+        <ul class="list-icons-hinode-center">
+                            <li class="item-icons-hinode-center">
+                    <div class="container-icons-hinode-center">
+                        <img src="https://grupohinode.com/assets/website/images/icon-hinode-center1.png" alt="">
+                    </div>
+                    <p>retirar e <br> experimentar<br> produtos</p>
+                </li>
+                            <li class="item-icons-hinode-center">
+                    <div class="container-icons-hinode-center">
+                        <img src="https://grupohinode.com/assets/website/images/icon-hinode-center2.png" alt="">
+                    </div>
+                    <p>participar de<br> treinamentos e<br> cursos</p>
+                </li>
+                            <li class="item-icons-hinode-center">
+                    <div class="container-icons-hinode-center">
+                        <img src="https://grupohinode.com/assets/website/images/icon-hinode-center3.png" alt="">
+                    </div>
+                    <p>fazer reuniões</p>
+                </li>
+                            <li class="item-icons-hinode-center">
+                    <div class="container-icons-hinode-center">
+                        <img src="https://grupohinode.com/assets/website/images/icon-hinode-center4.png" alt="">
+                    </div>
+                    <p>tornar-se<br> consultor</p>
+                </li>
+                    </ul>
+    </div>
+</section>
+	<section class="wrap-franqueado-img">
+    <div class="img-mobile"></div>
+    <div class="wrap-seja-franqueado" id="seja-um-franqueado">
+        <div class="wrap-faca-parte-form grid1015">
+            <div class="wrap-grid-two grid-wrap-txt">
+                <h3 class="title-franqueado">SEJA UM FRANQUEADO<br />E VENÇA COM A GENTE</h3>
+                <p>Faça seu cadastro agora mesmo e venha fazer parte da família Hinode.</p>
+                <img class="logo" src="https://grupohinode.com/assets/website/images/abf-logo.png">
+                <img class="logo mg-left" src="https://grupohinode.com/assets/website/images/selo-excelencia.png">
             </div>
-            <div class="wrap-titulo-ytb">
-                <p>Inscreva-se em nosso Canal.</p>2
-                <script src="https://apis.google.com/js/platform.js"></script>
-                <div class="wrap-yt-subscribe">
-                    <div class="g-ytsubscribe ytsubscribe" data-channelid="UCSqcPzOr5qwwT4EkZvNSC6w"
-                         data-layout="full" data-count="hidden"></div>
+            <div class="wrap-grid-two form-color fixed-height-form">
+                <div class="new-register form-default">
+                    <form name="faca-parte" method="post" action="https://grupohinode.com/consultores-hinode/cadastrar">
+                        <input type="hidden" name="utm_source" value="">
+                        <input type="hidden" name="utm_content" value="">
+
+                        <input type="text" id="ipt-form1-1" name="name" required placeholder="Insira seu nome">
+                        <p id="ipt-form1-1-error" class="error-msg msg-erro-left">Por favor verifique se o nome está preenchido corretamente.</p>
+                        <input type="text" id="ipt-form1-2" name="email" required placeholder="Insira seu e-mail">
+                        <p id="ipt-form1-2-error" class="error-msg msg-erro-left">Por favor verifique se o email está preenchido corretamente.</p>
+                        <input type="text" id="ipt-form1-3" name="phone" required placeholder="Telefone">
+                        <p id="ipt-form1-3-error" class="error-msg msg-erro-left">Por favor verifique se o telefone está preenchido corretamente.</p>
+                        <input type="text" id="ipt-form1-4" name="zipcode" required placeholder="CEP">
+                        <p id="ipt-form1-4-error" class="error-msg msg-erro-left">Por favor verifique se o cep está preenchido corretamente.</p>
+                        <select name="origin" rquired>
+                                                            <option value="0">Como nos conheceu</option>
+                                                            <option value="TV">TV</option>
+                                                            <option value="Rádio">Rádio</option>
+                                                            <option value="Mobiliário urbano">Mobiliário urbano</option>
+                                                            <option value="Revista">Revista</option>
+                                                            <option value="Outdoor">Outdoor</option>
+                                                            <option value="Internet">Internet</option>
+                                                    </select>
+                        <input type="submit" value="ENVIAR" class="btn-default">
+                    </form>
                 </div>
             </div>
-            <ul class="lista-videos">
-                                    <li>
-                        <a href="javascript:;" data-url="RzERacY9qS0" data-time="7:13">
-                            <div class="wrap-image-principal">
-                                <img src="https://i.ytimg.com/vi/RzERacY9qS0/mqdefault.jpg" alt="">
-                            </div>
-                            <p>Highlights Academia de Treinadores Out/2017</p>
-                            <img src="https://grupohinode.com/assets/website/images/btn-play.png" alt="" class="btn-play">
-                            <span class="info-time">7:13</span>
-                        </a>
-                    </li>
-                                    <li>
-                        <a href="javascript:;" data-url="mhvNteHwk6E" data-time="3:08">
-                            <div class="wrap-image-principal">
-                                <img src="https://i.ytimg.com/vi/mhvNteHwk6E/mqdefault.jpg" alt="">
-                            </div>
-                            <p>Diferenças entre Nutracêuticos e Nutricosméticos com Carol Mota</p>
-                            <img src="https://grupohinode.com/assets/website/images/btn-play.png" alt="" class="btn-play">
-                            <span class="info-time">3:08</span>
-                        </a>
-                    </li>
-                                    <li>
-                        <a href="javascript:;" data-url="VQn4LU6iOOk" data-time="2:49">
-                            <div class="wrap-image-principal">
-                                <img src="https://i.ytimg.com/vi/VQn4LU6iOOk/mqdefault.jpg" alt="">
-                            </div>
-                            <p>Conheça o Curso Mais e invista na sua carreira!</p>
-                            <img src="https://grupohinode.com/assets/website/images/btn-play.png" alt="" class="btn-play">
-                            <span class="info-time">2:49</span>
-                        </a>
-                    </li>
-                                    <li>
-                        <a href="javascript:;" data-url="L5N0OQNMpFw" data-time="9:14">
-                            <div class="wrap-image-principal">
-                                <img src="https://i.ytimg.com/vi/L5N0OQNMpFw/mqdefault.jpg" alt="">
-                            </div>
-                            <p>Informações sobre HND Alta Performance com Carol Mota</p>
-                            <img src="https://grupohinode.com/assets/website/images/btn-play.png" alt="" class="btn-play">
-                            <span class="info-time">9:14</span>
-                        </a>
-                    </li>
-                                    <li>
-                        <a href="javascript:;" data-url="tWSwW4QoOrk" data-time="23:01">
-                            <div class="wrap-image-principal">
-                                <img src="https://i.ytimg.com/vi/tWSwW4QoOrk/mqdefault.jpg" alt="">
-                            </div>
-                            <p>Treinamento com Evandro Viana</p>
-                            <img src="https://grupohinode.com/assets/website/images/btn-play.png" alt="" class="btn-play">
-                            <span class="info-time">23:01</span>
-                        </a>
-                    </li>
-                                    <li>
-                        <a href="javascript:;" data-url="WEYZfGa_rsk" data-time="2:40">
-                            <div class="wrap-image-principal">
-                                <img src="https://i.ytimg.com/vi/WEYZfGa_rsk/mqdefault.jpg" alt="">
-                            </div>
-                            <p>Shape & Stay - O segredo da sobrancelha perfeita.</p>
-                            <img src="https://grupohinode.com/assets/website/images/btn-play.png" alt="" class="btn-play">
-                            <span class="info-time">2:40</span>
-                        </a>
-                    </li>
-                            </ul>
+            <div class="wrap-grid-two wrap-text-franqueado">
+                <p class="disclaimer">
+                    Ainda está com dúvidas? Acesse as outras seções do site <br />
+                    para mais informações ou <a href="">encontre sua dúvida em Ajuda.</a><br />
+                    Caso prefira, <a href="">converse com um de nossos consultores.</a>
+                </p>
+                <div class="flex">
+                    <img class="logo-mobile" src="https://grupohinode.com/assets/website/images/abf-logo.png">
+                    <img class="logo-mobile" src="https://grupohinode.com/assets/website/images/selo-excelencia.png">
+                </div>
+            </div>
         </div>
     </div>
 </section>
-    <section class="wrap-perolas">
-    <div class="grid930">
-        <h3 class="title-default" id="perolas">PÉROLAS</h3>
-        <iframe width="940" height="530" src="https://www.youtube.com/embed/5QjU5ChQ2_g" frameborder="0"
-                gesture="media" allow="encrypted-media" allowfullscreen class="principal-video"></iframe>
-        <a href="http://perolas.grupohinode.com" target="_blank" class="btn-default">SEJA UMA PÉROLA</a>
-    </div>
-</section>
-    <h3 class="title-default" id="cursos">CURSOS</h3>
-<section class="bg-cursos">
-    <div class="grid930">
-        <h4>Acompanhe nossos<br/>próximos cursos</h4>
-        <p>Temos diversos cursos para otimizar as <br/>suas vendas e aumentar a sua rede.</p>
-        <a href="https://escritorio.hinode.com.br/login" target="_blank" class="btn-default">CONHEÇA</a>
-    </div>
-</section>
+	<franchise-maps></franchise-maps>
     </div>
 
     <div class="bg-menu"></div>
@@ -637,7 +554,7 @@
 </div>
 
 
-        
+    	
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
 
         <script>
@@ -728,7 +645,7 @@
         <!--[if lt IE 8]>
         <![endif]-->
         <!--Fim dos arquivos Javascript-->
-        <script src="/assets/website/js/app-20190411.js?v=123"></script>
+        <script src="../assets/website/js/app-20190411.js?v=123"></script>
 
     
 
@@ -755,52 +672,138 @@
 
 
 
-    <script>
-        $(document).ready(function () {
-            $('.wrap-marketing').slick({
-                dots: false,
-                appendArrows: '.append-slider-marketing',
-                arrows: true,
-                centerPadding: '45px',
-                infinite: true,
-                responsive: [
-                    {
-                        breakpoint: 980,
-                        settings: {
-                            arrows: false,
-                            dots: true
-                        }
-                    },
-                ]
-            });
-            $('a[href^="#"]').click(function () {
-                var hash = this.hash;
-                $('html, body').animate({
-                    scrollTop: $(hash).offset().top
-                }, 800, function () {
+	<script id="marker-content-template" type="text/x-handlebars-template">
+		<div class="custom-img" style="background-image: url({{{bgImg}}})"></div>
+		<section class="custom-content">
+			<h1 class="custom-header">
+				{{title}}
+			</h1>
+			<div class="custom-body">{{{body}}}</div>
+		</section>
+	</script>
 
-                    // Add hash (#) to URL when done scrolling (default click behavior)
-                    window.location.hash = hash;
+	<script>
+		$(document).ready(function(){
+			$('a[href^="#"]').click(function(){
+				var hash = this.hash;
+				$('html, body').animate({
+					scrollTop: $(hash).offset().top
+				}, 800, function(){
+
+			// Add hash (#) to URL when done scrolling (default click behavior)
+			window.location.hash = hash;
+		});
+			});
+			$('.wrap-sliders-hinode .slider').slick({
+				appendArrows: '.append-arrows',
+				arrows: true,
+				dots: false,
+				responsive: [
+				{
+					breakpoint: 768,
+					settings: {
+						dots: true
+					}
+				}]
+			});
+			$('#ipt-form1-3').mask('(99) 9999-99998', {
+				translation: {
+					'8': {
+						pattern: /[0-9]/, optional: true
+					}
+				}
+			});
+			$('#ipt-form1-4').mask('99999-999');
+			$('.wrap-destaque-txt .item-depoimento').slick({
+				responsive: [
+				{
+					breakpoint: 9999,
+					settings: "unslick"
+				},
+				{
+					breakpoint: 980,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1,
+						infinite: true,
+						dots: true,
+						arrows: false
+					}
+				}
+				]
+			});
+
+		});
+	</script>
+
+	<!-- Envio Formulario -->
+	<script>
+        $('form[name="faca-parte"]').submit(function (e) {
+            e.preventDefault();
+			
+            var url = $(this).attr('action');
+            var params = {};
+            $.each($(this).serializeArray(), function(_, kv) {
+                params[kv.name] = kv.value;
+            });
+
+			let isValid = true;
+
+			let objER = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9]+(?:\.[a-zA-Z0-9-]+)*$/;
+			if(objER.test(params.email)) {
+				$('#ipt-form1-2-error').hide();
+				$('#ipt-form1-2').removeClass('input-error');
+			} else {
+				$('#ipt-form1-2-error').show();
+				$('#ipt-form1-2').addClass('input-error');
+				isValid = false;
+			}
+
+			objER = /^[0-9]{5}-[0-9]{3}$/;
+			if(objER.test(params.zipcode)) {
+				$('#ipt-form1-4-error').hide();
+				$('#ipt-form1-4').removeClass('input-error');
+			} else {
+				$('#ipt-form1-4-error').show();
+				$('#ipt-form1-4').addClass('input-error');
+				isValid = false;
+			}
+
+			objER = /^(?:\()[0-9]{2}(?:\))\s?[0-9]{4,5}(?:-)[0-9]{4,5}$/;
+			if(objER.test(params.phone)) {
+				$('#ipt-form1-3-error').hide();
+				$('#ipt-form1-3').removeClass('input-error');
+			} else {
+				$('#ipt-form1-3-error').show();
+				$('#ipt-form1-3').addClass('input-error');
+				isValid = false;
+			}
+
+			if(params.name == 0) {
+				$('#ipt-form1-1-error').show();
+				$('#ipt-form1-1').addClass('input-error');
+				isValid = false;
+			} else {
+				$('#ipt-form1-1-error').hide();
+				$('#ipt-form1-1').removeClass('input-error');
+			}
+
+			if (isValid) {
+				axios.post(url, params)
+                .then(function (response) {
+                    var status = response.data.success? 'success': 'warning';
+                    var title = response.data.success? 'Sucesso': 'Ops!';
+                    var message = response.data.message;
+                    swal(title, message, status);
+                })
+                .catch(function (error) {
+                    swal('Falha', 'Ops, tente novamente mais tarde.', 'error');
                 });
-            });
+			} else {
+				swal('Falha', 'Verifique se seus dados estão corretos e tente novamente.!', 'error');
+			}
+			
         });
-        $('.lista-videos li a').click(function () {
-            dstqVideo = $('.principal-video').attr('data-url');
-            dstqTime = $('.principal-video').attr('data-time');
-            videoAtual = $(this)
-            videoAtualUrl = videoAtual.attr('data-url');
-            contentTitleVideo = videoAtual.children('p').html();
-            timeAtual = videoAtual.attr('data-time');
-
-            videoAtual.attr('data-url', dstqVideo);
-
-            console.log('timeAtual ' + timeAtual + ' | ' + 'dstqTime ' + dstqTime);
-
-            videoAtual.attr('data-url', dstqVideo).attr('data-time', dstqTime).html('<img src="https://i.ytimg.com/vi/' + dstqVideo + '/mqdefault.jpg" alt="">').append('<p>' + $('.principal-video').attr('title') + '</p><img src="https://grupohinode.com/assets/website/images/btn-play.png" alt="" class="btn-play"><span class="info-time">' + dstqTime + '</span>');
-
-            $('.wrap-principal-video').html('<iframe src="https://www.youtube.com/embed/' + videoAtualUrl + '?rel=0&autoplay=1" allowfullscreen class="principal-video" data-url="' + videoAtualUrl + '" data-time="' + timeAtual + '" title="' + contentTitleVideo + '"></iframe>');
-
-        });
-    </script>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXRQoMQwdFRF1ESUwMV1QBHQ==","queueTime":0,"applicationTime":178,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+	</script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXWA0LWgZSaFdVXhYASx4NC1EHTw==","queueTime":0,"applicationTime":190,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

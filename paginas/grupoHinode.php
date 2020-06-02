@@ -14,18 +14,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="Q6zbIJpj-zQZbhRw5SDdhWBP-IcPWRiKUnhvFkYDXCQ" />
     <link rel="stylesheet" href="../assets/website/css/estilo-20190822.css?v=1">
-    <script src="/assets/website/js/jquery-3.2.1.min.js"></script>
-    <script src="/assets/website/js/jquery.validate.min.js"></script>
-    <script src="/assets/website/js/slick.min.js"></script>
-    <script src="/assets/website/js/jquery.mask.js"></script>
-    <link rel="stylesheet" href="/assets/website/css/slick.css">
-    <link rel="stylesheet" href="/assets/website/css/map-styles.css">
+    <script src="../assets/website/js/jquery-3.2.1.min.js"></script>
+    <script src="../assets/website/js/jquery.validate.min.js"></script>
+    <script src="../assets/website/js/slick.min.js"></script>
+    <script src="../assets/website/js/jquery.mask.js"></script>
+    <link rel="stylesheet" href="../assets/website/css/slick.css">
+    <link rel="stylesheet" href="../assets/website/css/map-styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/css/inputmask.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdbJmnnwSV-R5bzygMolEHUkLhVkxS1Jc"></script>
     <script type="text/javascript" src="https://hinode.teleperformance.com.br/HinodeWebApi/AppChat2/chatTP.js"></script>
-    <link rel="shortcut icon" href="/assets/website/images/favicon.png">
-    <script src="/assets/website/js/snazzy-info-window.js"></script>
+    <link rel="shortcut icon" href="../assets/website/images/favicon.png">
+    <script src="../assets/website/js/snazzy-info-window.js"></script>
     <title>O Grupo Hinode</title>
 <meta name="description" content="O que move o Grupo Hinode &eacute; a possibilidade de ajudar pessoas a realizar seus sonhos e promover conquistas. Conhe&ccedil;a nosso trabalho!">
 <link rel="canonical" href="https://grupohinode.com/o-grupo-hinode"/>
@@ -44,10 +44,7 @@
 </head>
 <body>
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6GVZV8"
-                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+   
     <div class="wrap-header-total">
   <header class="header">
     <div class="grid1240">
@@ -58,14 +55,7 @@
         </a>
       </h1>
       <div class="wrap-right buttons-menu">
-        <div class="itens-lang">
-          <span>LANGUAGE</span>
-          <ul>
-            <li><a href="//grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-pt.png" alt="">PORTUGUES</a></li>
-            <li><a href="//en.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-en.png" alt="">ENGLISH</a></li>
-            <li><a href="//co.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-es.png" alt="">ESPANHOL</a></li>
-          </ul>
-        </div>
+       
         <a href="https://escritorio.hinode.com.br/login" class="btn-entrar" target="_blank">VIRTUAL OFFICE</a>
       </div>
       </div>
@@ -84,37 +74,37 @@
           <ul class="list-menu-main">
                <li 
               class='item-menu-main selected'>
-              <a href="grupoHinode.html" class="link-menu-main">
+              <a href="grupoHinode.php" class="link-menu-main">
                 <span>O GRUPO HINODE</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="nossaMarcas.html" class="link-menu-main">
+              <a href="nossaMarcas.php" class="link-menu-main">
                 <span>NOSSAS MARCAS</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="consultores.html" class="link-menu-main">
+              <a href="consultores.php" class="link-menu-main">
                 <span>CONSULTORES(AS)</span>
               </a> 
             </li>
             <li class='item-menu-main'>
-              <a href="hinodeCenter.html" class="link-menu-main">
+              <a href="hinodeCenter.php" class="link-menu-main">
                 <span>HINODE CENTER</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="universidadeHinode.html" class="link-menu-main">
+              <a href="universidadeHinode.php" class="link-menu-main">
                 <span>UNIVERSIDADE HINODE</span>
               </a>
             </li>
                         <li class='item-menu-main item-hide-m'>
-              <a href="acontece.html" class="link-menu-main">
+              <a href="acontece.php" class="link-menu-main">
                 <span>ACONTECE</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="calendario.html" class="link-menu-main">
+              <a href="calendario.php" class="link-menu-main">
                 <span>CALENDÁRIO</span>
               </a>
             </li>
@@ -1071,7 +1061,7 @@
         <!--[if lt IE 8]>
         <![endif]-->
         <!--Fim dos arquivos Javascript-->
-        <script src="/assets/website/js/app-20190411.js?v=123"></script>
+        <script src="../assets/website/js/app-20190411.js?v=123"></script>
 
     
 

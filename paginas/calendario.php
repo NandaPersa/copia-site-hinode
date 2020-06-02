@@ -14,27 +14,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="Q6zbIJpj-zQZbhRw5SDdhWBP-IcPWRiKUnhvFkYDXCQ" />
     <link rel="stylesheet" href="../assets/website/css/estilo-20190822.css?v=1">
-    <script src="/assets/website/js/jquery-3.2.1.min.js"></script>
-    <script src="/assets/website/js/jquery.validate.min.js"></script>
-    <script src="/assets/website/js/slick.min.js"></script>
-    <script src="/assets/website/js/jquery.mask.js"></script>
-    <link rel="stylesheet" href="/assets/website/css/slick.css">
-    <link rel="stylesheet" href="/assets/website/css/map-styles.css">
+    <script src="../assets/website/js/jquery-3.2.1.min.js"></script>
+    <script src="../assets/website/js/jquery.validate.min.js"></script>
+    <script src="../assets/website/js/slick.min.js"></script>
+    <script src="../assets/website/js/jquery.mask.js"></script>
+    <link rel="stylesheet" href="../assets/website/css/slick.css">
+    <link rel="stylesheet" href="../assets/website/css/map-styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/css/inputmask.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdbJmnnwSV-R5bzygMolEHUkLhVkxS1Jc"></script>
     <script type="text/javascript" src="https://hinode.teleperformance.com.br/HinodeWebApi/AppChat2/chatTP.js"></script>
     <link rel="shortcut icon" href="/assets/website/images/favicon.png">
-    <script src="/assets/website/js/snazzy-info-window.js"></script>
-    <title>Consultores Hinode | Grupo Hinode</title>
-<meta name="description" content="Os consultores independentes do Grupo Hinode, al&eacute;m de conquistarem sua idepend&ecirc;ncia financeira, ainda podem receber uma s&eacute;rie de b&ocirc;nus e pr&ecirc;mios. Saiba como!">
-<link rel="canonical" href="https://grupohinode.com/consultores-hinode"/>
-<meta property="og:title" content="Consultores Hinode | Grupo Hinode" />
-<meta property="og:description" content="Os consultores independentes do Grupo Hinode, al&eacute;m de conquistarem sua idepend&ecirc;ncia financeira, ainda podem receber uma s&eacute;rie de b&ocirc;nus e pr&ecirc;mios. Saiba como!" />
+    <script src="../assets/website/js/snazzy-info-window.js"></script>
+    <title>Grupo Hinode</title>
+<meta name="description" content="Somos o Grupo Hinode. Um grupo que pensa em conjunto e reúne ideias, pessoas e sonhos em um só lugar. Conheça nosso trabalho entre para o time Hinode!">
+<link rel="canonical" href="https://grupohinode.com/calendario"/>
+<meta property="og:title" content="Grupo Hinode" />
+<meta property="og:description" content="Somos o Grupo Hinode. Um grupo que pensa em conjunto e reúne ideias, pessoas e sonhos em um só lugar. Conheça nosso trabalho entre para o time Hinode!" />
 <meta property="og:image" content="https://grupohinode.com/assets/website/images/grupo-hinode-fb-image.jpg" />
 
-<meta name="twitter:title" content="Consultores Hinode | Grupo Hinode" />
-<meta name="twitter:description" content="Os consultores independentes do Grupo Hinode, al&eacute;m de conquistarem sua idepend&ecirc;ncia financeira, ainda podem receber uma s&eacute;rie de b&ocirc;nus e pr&ecirc;mios. Saiba como!" />
+<meta name="twitter:title" content="Grupo Hinode" />
+<meta name="twitter:description" content="Somos o Grupo Hinode. Um grupo que pensa em conjunto e reúne ideias, pessoas e sonhos em um só lugar. Conheça nosso trabalho entre para o time Hinode!" />
 
     <style>
         .input-datepicker {
@@ -44,10 +44,7 @@
 </head>
 <body>
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6GVZV8"
-                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+   
     <div class="wrap-header-total">
   <header class="header">
     <div class="grid1240">
@@ -58,14 +55,7 @@
         </a>
       </h1>
       <div class="wrap-right buttons-menu">
-        <div class="itens-lang">
-          <span>LANGUAGE</span>
-          <ul>
-            <li><a href="//grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-pt.png" alt="">PORTUGUES</a></li>
-            <li><a href="//en.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-en.png" alt="">ENGLISH</a></li>
-            <li><a href="//co.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-es.png" alt="">ESPANHOL</a></li>
-          </ul>
-        </div>
+       
         <a href="https://escritorio.hinode.com.br/login" class="btn-entrar" target="_blank">VIRTUAL OFFICE</a>
       </div>
       </div>
@@ -83,38 +73,38 @@
                 <nav class="menu-main">
           <ul class="list-menu-main">
                <li class='item-menu-main'>
-              <a href="grupoHinode.html" class="link-menu-main">
+              <a href="grupoHinode.php" class="link-menu-main">
                 <span>O GRUPO HINODE</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="nossaMarcas.html" class="link-menu-main">
+              <a href="nossaMarcas.php" class="link-menu-main">
                 <span>NOSSAS MARCAS</span>
               </a>
             </li>
-            <li 
-              class='item-menu-main selected'>
-              <a href="consultores.html" class="link-menu-main">
+            <li class='item-menu-main'>
+              <a href="consultores.php" class="link-menu-main">
                 <span>CONSULTORES(AS)</span>
               </a> 
             </li>
             <li class='item-menu-main'>
-              <a href="hinodeCenter.html" class="link-menu-main">
+              <a href="hinodeCenter.php" class="link-menu-main">
                 <span>HINODE CENTER</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="universidadeHinode.html" class="link-menu-main">
+              <a href="universidadeHinode.php" class="link-menu-main">
                 <span>UNIVERSIDADE HINODE</span>
               </a>
             </li>
                         <li class='item-menu-main item-hide-m'>
-              <a href="acontece.html" class="link-menu-main">
+              <a href="acontece.php" class="link-menu-main">
                 <span>ACONTECE</span>
               </a>
             </li>
-            <li class='item-menu-main'>
-              <a href="calendario.html" class="link-menu-main">
+            <li 
+            class='item-menu-main selected'>
+              <a href="calendario.php" class="link-menu-main">
                 <span>CALENDÁRIO</span>
               </a>
             </li>
@@ -298,206 +288,57 @@
 
     <div id="app">
         
-			<div class="wrap-uma-escolha">
-</div>	
-	<div class="wrap-meu-lugar">
-    <div class="grid930">
-        <h3>AQUI É O MEU <br />LUGAR</h3>
-        <p>
-            O Grupo Hinode possui duas marcas<br />
-            consolidadas no mercado com cerca de 600<br />
-            produtos, dentre eles perfumaria, bem-estar,<br />
-            higiene pessoal, maquiagem e cosméticos.
-        </p>
-        <a href="#faca-parte" class="btn-default">SEJA UM(A) CONSULTOR(A)</a>
-    </div>
+    <div class="wrap-sub-menu">
+    <nav class="grid1240">
+        <ul class="list-sub-menu itens-center submenu-acontece">
+                            
+                            
+                    </ul>
+    </nav>
 </div>
-	<div class="wrap-total-content-white wrap-total-mkt">
-    <div class="slider">
-                    <div class="slide">
-                <img src="https://grupohinode.com/assets/website/images/img-mkt-slider-1.png" alt="">
-                <div class="grid1240">
-                    <div class="content-slide-txt content-slide-right">
-                        <h3>MARKETING MULTINÍVEL</h3>
-                        <p>Ou marketing de rede, é um modelo de negócio com muitas vantagens para os Consultores de Negócio como ter seu próprio negócio e poder gerenciá-lo, flexibilidade de horário, você cria seu ganho de acordo com sua disponibilidade e dedicação.</p>
+    <div class="wrap-universidade-mkt wrap-acontece-banner">
+    <section class="wrap-marketing">
+                    <div class="slider-universidade-txt">
+                <div class="item background-universidade background-acontece-eventos"  style="background-image:url();">
+                    <img src="https://hinode-grupo.s3.sa-east-1.amazonaws.com/post/8e296a06/bff6dff6/featured_image_1674x577.jpeg" alt="">
+                    <div class="grid930">
+                        <div class="content-txt">
+                            <h2 class="title-slider-white">CONVENÇÃO HINODE</h2>
+                            <p class="txt-slider-white">Dias 25 e 26 Janeiro de 2020 o maior evento de marketing multinível do país será realizado no São Paulo Expo.</p>
+                            <a href="" target="_blank" class="btn-default">SAIBA MAIS</a>
+                        </div>
                     </div>
                 </div>
             </div>
-                    <div class="slide">
-                <img src="https://grupohinode.com/assets/website/images/img-mkt-slider-2.png" alt="">
-                <div class="grid1240">
-                    <div class="content-slide-txt content-slide-right">
-                        <h3>VENDA DIRETA</h3>
-                        <p>Os produtos podem ser revendidos pelos Consultores de Negócio com ganho de 100%.<br /><br />
-                        O Grupo Hinode é referência em um modelo inovador da venda direta que, com a comercialização dos produtos, transforma a vida das pessoas por meio da atitude empreendedora.</p>
-                    </div>
-                </div>
-            </div>
-                    <div class="slide">
-                <img src="https://grupohinode.com/assets/website/images/img-mkt-slider-3.png" alt="">
-                <div class="grid1240">
-                    <div class="content-slide-txt content-slide-right">
-                        <h3>CONSUMO INTELIGENTE</h3>
-                        <p>Os produtos adquiridos pelos Consultores podem ser usados para consumo próprio pois são produtos do dia a dia das pessoas (maquiagem, cosméticos, higiene, perfumes).</p>
-                    </div>
-                </div>
-            </div>
-            </div>
-    <div class="append-arrows append-arrows-mkt"></div>
-</div>
-    <div class="wrap-viagens-premios">
-    <h2 class="title-default">VIAGENS E PRÊMIOS</h2>
-    <div class="slider">
-                    <div class="item item-premios bg-slide-premios-1-1">
-                <div class="wrap-content-premios grid930">
-                    <div class="wrap-titulo-premio">
-                        <h3>PRÊMIOS</h3>
-                        <p>Uma BMW 0km</p>
-                    </div>
-                </div>
-            </div>
-                    <div class="item item-premios bg-slide-premios-2-1">
-                <div class="wrap-content-premios grid930">
-                    <div class="wrap-titulo-premio">
-                        <h3>VIAGENS E PRÊMIOS</h3>
-                        <p>Viagem para Disney e uma BMW 0km.</p>
-                    </div>
-                </div>
-            </div>
-                    <div class="item item-premios bg-slide-premios-3-1">
-                <div class="wrap-content-premios grid930">
-                    <div class="wrap-titulo-premio">
-                        <h3>VIAGENS E PRÊMIOS</h3>
-                        <p>Viagem para Europa e uma Evoque 0km</p>
-                    </div>
-                </div>
-            </div>
-                    <div class="item item-premios bg-slide-premios-4-1">
-                <div class="wrap-content-premios grid930">
-                    <div class="wrap-titulo-premio">
-                        <h3>VIAGENS E PRÊMIOS</h3>
-                        <p>Cruzeiro pela costa brasileira.</p>
-                    </div>
-                </div>
-            </div>
-                    <div class="item item-premios bg-slide-premios-5-1">
-                <div class="wrap-content-premios grid930">
-                    <div class="wrap-titulo-premio">
-                        <h3>VIAGENS E PRÊMIOS</h3>
-                        <p>Viagem para Cancún.</p>
-                    </div>
-                </div>
-            </div>
-            </div>
-    <div class="append-arrows append-slider-dez-formas"></div>
+            </section>
+    <div class="append-arrows append-slider-marketing"></div>
 </div>
 
-    <div class="wrap-eventos-premiacoes">
-    <h2 class="title-default">EVENTOS E PREMIAÇÕES</h2>
-    <div class="grid100">
-                    <div class="item"><img src="https://grupohinode.com/assets/website/images/hinode-eventos-premiacoes-1-v2.jpg" alt=""></div>
-                    <div class="item"><img src="https://grupohinode.com/assets/website/images/hinode-eventos-premiacoes-2-v2.jpg" alt=""></div>
-            </div>
-</div>
-    <div class="wrap-total-slider wrap-total-content-white wrap-total-cresca">
-    <div class="slide">
-        <img src="https://grupohinode.com/assets/website/images/bg_cresca-suporte.png" alt="">
-        <div class="grid1240">
-            <div class="content-slide-txt">
-                <h3>CRESÇA COM O NOSSO SUPORTE</h3>
-                 <p>UNIVERSIDADE HINODE</p>
-                <p>Participe de treinamentos presenciais e online neste suporte exclusivo para Consultores(as) Hinode. </p>
-            </div>
-        </div>
-    </div>
-</div>
-    <div class="wrap-destaque-txt">
-    <div class="content">
-        <h4 class="title-default">MILHARES DE FAMÍLIAS JÁ ESTÃO <br />VENCENDO COM O GRUPO HINODE</h4>
-    </div>
-    <div class="slider">
-        <div class="content slide">
-            <div class="item-depoimento grid930">
-                                    <div class="depoimento">
-                        <p>"Se eu pudesse escolher uma frase que nos inspirou a chegar até aqui, seria: 'Eu vi o futuro e
-                            decidi viver nele. Eu vi o futuro, e fiz dele a minha morada!', do Renê Terra Nova. Decidimos viver
-                            o futuro como grandes líderes, cumprindo a missão Hinode ao redor do mundo."</p>
-                        <h5>AMANDA UCHÔA E DANIEL, AM</h5>
-                    </div>
-                                    <div class="depoimento">
-                        <p>"O negócio proporciona algo tão mágico, que só pode ter a mão de Deus. Superamos os limites e deu tudo certo."</p>
-                        <h5>EVANDRO VIANNA, DF</h5>
-                    </div>
-                                    <div class="depoimento">
-                        <p>"Quando alcançamos a independência financeira, nossa motivação caiu um pouco. Entedemos,
-                            então, que a felicidade está em cumprir a missão da empresa. É como diz o ditado: 'a felicidade
-                            está na jornada e não no destino."</p>
-                        <h5>MARGARETE HENSLER E ANDRÉ ROBERTI, SP</h5>
-                    </div>
-                                    <div class="depoimento">
-                        <p>"O que realmente faz a diferença neste negócio? É o que eu sempre digo: 'Hoje estou disposto a
-                            fazer coisas que poucas pessoas estão dispostas a fazer, mas amanhã poderei fazer coisas que
-                            poucas pessoas podem fazer."</p>
-                        <h5>ELTON OSHIRO, MS</h5>
-                    </div>
-                                    <div class="depoimento">
-                        <p>"Uma frase que compartilhamos com nossa rede diz tudo: é muito importante saber onde você
-                            está indo, pois, se estiver muito rápido na direção errada, pode perder o foco. Saber aonde quer
-                            chegar é o primeiro passo do sucesso!"</p>
-                        <h5>JACQUELINE PALMA E GENISSON CARVALHO, SE</h5>
-                    </div>
-                                    <div class="depoimento">
-                        <p>"Quando alcançamos a independência financeira, nossa motivação caiu um pouco. Entendemos,
-                            então, que a felicidade está em cumprir a missão da empresa. É como diz o ditado:
-                            "a felicidade está na jornada e não no destino."</p>
-                        <h5>MOISÉS E IRENE CORREA DE FARIA, SC</h5>
-                    </div>
-                            </div>
-        </div>
-    </div>
-    <div class="append-arrows append-arrows-depoimento"></div>
-</div>
-    <div class="wrap-faca-parte-form grid1015" id="faca-parte">
-    <div class="wrap-grid-two grid-wrap-txt">
-        <h3 class="title-default">FAÇA PARTE E VENÇA JUNTO COM A GENTE</h3>
-        <p class="txt-justify">
-            Ao se cadastrar, você terá acesso a diversas formas de ganho que a Hinode oferece. É a sua oportunidade de mudar de vida e oferecer esta mesma oportunidade para milhares de pessoas.<br /><br />
-            Faça seu cadastro agora mesmo e venha fazer parte da família Hinode.
-        </p>
-        <p class="disclaimer">
-            Ainda está com dúvidas? Acesse as outras seções do site <br />para mais informações ou <a href="#" class="consultant_chatbot">encontre sua dúvida em nossa atendente virtual. </a><br />
-        </p>
-    </div>
-    <div class="wrap-grid-two">
-        <div class="new-register form-default">
-            <form name="faca-parte" method="post" action="https://grupohinode.com/consultores-hinode/cadastrar">
-                <input type="hidden" name="utm_source" value="">
-                <input type="hidden" name="utm_content" value="">
-
-                <input type="hidden" name="country" value="1">
-
-                <input type="text" id="ipt-form1-1" name="name" required placeholder="Insira seu nome">
-                <p id="ipt-form1-1-error" class="error-msg msg-erro-left">Por favor verifique se o nome está preenchido corretamente.</p>
-                <input type="text" id="ipt-form1-2" name="email" required placeholder="Insira seu e-mail">
-                <p id="ipt-form1-2-error" class="error-msg msg-erro-left">Por favor verifique se o email está preenchido corretamente.</p>
-                <input type="text" id="ipt-form1-3" name="phone" required placeholder="Telefone">
-                <p id="ipt-form1-3-error" class="error-msg msg-erro-left">Por favor verifique se o telefone está preenchido corretamente.</p>
-                                    <input type="text" id="ipt-form1-4" name="zipcode" required placeholder="CEP">
-                    <p id="ipt-form1-4-error" class="error-msg msg-erro-left">Por favor verifique se o cep está preenchido corretamente.</p>
-                                                <select name="origin" required>
-                                            <option value="0">Como nos conheceu</option>
-                                            <option value="TV">TV</option>
-                                            <option value="Rádio">Rádio</option>
-                                            <option value="Mobiliário urbano">Mobiliário urbano</option>
-                                            <option value="Revista">Revista</option>
-                                            <option value="Outdoor">Outdoor</option>
-                                            <option value="Internet">Internet</option>
+    <div class="search-bar search-bar-eventos" id="search-bar">
+    <div class="grid1240">
+        <div class="default-inputs">
+            <h3>BUSCAR EVENTOS</h3>
+            <form action="#search-bar" id="frmSearch" style="height: 40px;">
+                <input type="text" name="palavra-chave" value="" placeholder="Palavra-chave" class="ipt-text">
+                <input type="submit" class="ipt-submit" value="">
+                <select name="tipo" id="" onchange="$('#frmSearch').submit()">
+                    <option value="">Tipo</option>
+                                            <option value="1" >Hinode Fest</option>
+                                            <option value="2" >Convenção Internacional</option>
+                                            <option value="3" >Viagens</option>
+                                            <option value="4" >Encontros</option>
                                     </select>
-                <input type="submit" value="ENVIAR" class="btn-default">
+                <div class="ipt-datepicker-select">
+                    <datepicker input-class="input-datepicker" :typeable="true" :language="datepickerlocale" format="dd/MM/yyyy" name="data" placeholder="Data" @input="submitForm('#frmSearch')" ></datepicker>
+                </div>
             </form>
         </div>
     </div>
 </div>
+    <section class="news">
+    <posts-list title="MAIS EVENTOS" :initial-data="{&quot;current_page&quot;:1,&quot;data&quot;:[{&quot;id&quot;:83,&quot;title&quot;:&quot;Cruzeiro Hinode&quot;,&quot;description&quot;:&quot;De 03 a 06 de Mar\u00e7o de 2020 o Cruzeiro Hinode parte para mais uma grande viagem!&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:3,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/d2843ab6\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/d2843ab6&quot;,&quot;size&quot;:4676089,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d2843ab6\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/d2843ab6\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/d2843ab6\/conversions&quot;,&quot;size&quot;:4676089,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d2843ab6\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:19:17&quot;,&quot;updated_at&quot;:&quot;2020-02-07 11:40:52&quot;,&quot;order&quot;:1,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;De 03 a 06 de Mar\u00e7o de 2020 o Cruzeiro Hinode parte para mais uma grande viagem!&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d2843ab6\/image_500x282.png&quot;},{&quot;id&quot;:84,&quot;title&quot;:&quot;HND Fest Equador&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/c744233a\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/c744233a&quot;,&quot;size&quot;:4631370,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/c744233a\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/c744233a\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/c744233a\/conversions&quot;,&quot;size&quot;:4631370,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/c744233a\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:35:58&quot;,&quot;updated_at&quot;:&quot;2020-03-16 11:52:05&quot;,&quot;order&quot;:2,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/c744233a\/image_500x282.png&quot;},{&quot;id&quot;:86,&quot;title&quot;:&quot;HND Fest Bol\u00edvia&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/d772086b\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/d772086b&quot;,&quot;size&quot;:4650071,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d772086b\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/d772086b\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/d772086b\/conversions&quot;,&quot;size&quot;:4650071,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d772086b\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:39:58&quot;,&quot;updated_at&quot;:&quot;2020-03-16 11:52:36&quot;,&quot;order&quot;:3,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d772086b\/image_500x282.png&quot;},{&quot;id&quot;:85,&quot;title&quot;:&quot;HND Fest Col\u00f4mbia&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/a11ab2fe\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/a11ab2fe&quot;,&quot;size&quot;:4651862,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a11ab2fe\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/a11ab2fe\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/a11ab2fe\/conversions&quot;,&quot;size&quot;:4651862,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a11ab2fe\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:37:19&quot;,&quot;updated_at&quot;:&quot;2020-03-16 11:52:52&quot;,&quot;order&quot;:4,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a11ab2fe\/image_500x282.png&quot;},{&quot;id&quot;:87,&quot;title&quot;:&quot;HND Fest Peru&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/b2965694\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/b2965694&quot;,&quot;size&quot;:4636627,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/b2965694\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/b2965694\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/b2965694\/conversions&quot;,&quot;size&quot;:4636627,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/b2965694\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:42:04&quot;,&quot;updated_at&quot;:&quot;2020-03-16 11:53:04&quot;,&quot;order&quot;:5,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/b2965694\/image_500x282.png&quot;},{&quot;id&quot;:88,&quot;title&quot;:&quot;Abertura Oficial M\u00e9xico&quot;,&quot;description&quot;:&quot;Em breve informa\u00e7\u00f5es sobre a abertura oficial no M\u00e9xico.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/81a166ae\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/81a166ae&quot;,&quot;size&quot;:4683615,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/81a166ae\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/81a166ae\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/81a166ae\/conversions&quot;,&quot;size&quot;:4683615,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/81a166ae\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:43:56&quot;,&quot;updated_at&quot;:&quot;2020-03-26 17:32:52&quot;,&quot;order&quot;:6,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Em breve informa\u00e7\u00f5es sobre a abertura oficial no M\u00e9xico.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/81a166ae\/image_500x282.png&quot;},{&quot;id&quot;:90,&quot;title&quot;:&quot;Hinode Fest Salvador&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/8a959c3d\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/8a959c3d&quot;,&quot;size&quot;:4712628,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8a959c3d\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/8a959c3d\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/8a959c3d\/conversions&quot;,&quot;size&quot;:4712628,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8a959c3d\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:49:14&quot;,&quot;updated_at&quot;:&quot;2020-03-20 11:24:28&quot;,&quot;order&quot;:7,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8a959c3d\/image_500x282.png&quot;},{&quot;id&quot;:89,&quot;title&quot;:&quot;Viagem para Disney&quot;,&quot;description&quot;:&quot;No m\u00eas de Junho nossos Triplos Diamantes v\u00e3o para Disney.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:3,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/a8b389c8\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/a8b389c8&quot;,&quot;size&quot;:4643246,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a8b389c8\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/a8b389c8\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/a8b389c8\/conversions&quot;,&quot;size&quot;:4643246,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a8b389c8\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:45:51&quot;,&quot;updated_at&quot;:&quot;2020-02-07 12:16:56&quot;,&quot;order&quot;:8,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;No m\u00eas de Junho nossos Triplos Diamantes v\u00e3o para Disney.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a8b389c8\/image_500x282.png&quot;},{&quot;id&quot;:91,&quot;title&quot;:&quot;HND Fest S\u00e3o Paulo&quot;,&quot;description&quot;:&quot;Dia 08 de Julho acontece o Hinode Fest S\u00e3o Paulo. Garanta sua presen\u00e7a!&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/a3fbf2f2\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/a3fbf2f2&quot;,&quot;size&quot;:4717016,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a3fbf2f2\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/a3fbf2f2\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/a3fbf2f2\/conversions&quot;,&quot;size&quot;:4717016,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a3fbf2f2\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:55:41&quot;,&quot;updated_at&quot;:&quot;2020-02-07 12:16:56&quot;,&quot;order&quot;:9,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Dia 08 de Julho acontece o Hinode Fest S\u00e3o Paulo. Garanta sua presen\u00e7a!&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a3fbf2f2\/image_500x282.png&quot;}],&quot;first_page_url&quot;:&quot;?page=1&quot;,&quot;from&quot;:1,&quot;last_page&quot;:2,&quot;last_page_url&quot;:&quot;?page=2&quot;,&quot;next_page_url&quot;:&quot;?page=2&quot;,&quot;path&quot;:&quot;&quot;,&quot;per_page&quot;:9,&quot;prev_page_url&quot;:null,&quot;to&quot;:9,&quot;total&quot;:17,&quot;has_more_pages&quot;:true}"></posts-list>
+</section>
+
     </div>
 
     <div class="bg-menu"></div>
@@ -658,7 +499,7 @@
 </div>
 
 
-    	
+        
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
 
         <script>
@@ -749,7 +590,7 @@
         <!--[if lt IE 8]>
         <![endif]-->
         <!--Fim dos arquivos Javascript-->
-        <script src="/assets/website/js/app-20190411.js?v=123"></script>
+        <script src="../assets/website/js/app-20190411.js?v=123"></script>
 
     
 
@@ -775,226 +616,5 @@
 </script>
 
 
-
-	<script>
-        $('.consultant_chatbot').click(function() {
-            $('.wrap-p-smk-o').children().click();
-        });
-
-		$(document).ready(function(){
-			$('.wrap-dez-formas .slider').slick({
-				arrows: true,
-				appendArrows: '.append-slider-dez-formas',
-				centerPadding: '45px',
-				infinite: true
-			});
-			$('.wrap-total-slider .slider').slick({
-				dots: false,
-				arrows: false
-				// appendArrows: '.append-cresca.append-arrows',
-				// appendDots: '.append-cresca.append-dots'
-			});
-
-			$('.wrap-total-mkt .slider').slick({
-				appendArrows: '.append-arrows-mkt',
-				responsive: [
-				{
-					breakpoint: 980,
-					settings: {
-						arrows: false,
-						dots: true,
-						appendDots: '.append-arrows-mkt'
-					}
-				}]
-			});
-			/*
-			$('.wrap-destaque-txt .slider').slick({
-				dots: false,
-				arrows: true,
-				appendArrows: '.append-arrows-depoimento',
-			});
-			*/
-			$('.wrap-viagens-premios .slider').slick({
-				dots: false,
-				arrows: true,
-				appendArrows: '.append-slider-dez-formas',
-
-			});
-			$('.wrap-plano-carreira .slider').slick({
-				dots: false,
-				arrows: true,
-				centerMode: true,
-				appendArrows: '.append-slider-dez-formas',
-				centerPadding: '100px',
-				variableWidth: true,
-				infinite: false,
-				focusOnSelect: true,
-				responsive: [
-				{
-					breakpoint: 1024,
-					settings: {
-						centerPadding: '0',
-						variableWidth: false
-					}
-				}]
-			});
-
-            (function(countryCode){
-
-                var ar = '5';
-                var bo = '6';
-                var co = '2';
-                var ec = '7';
-				var pe = '3';
-				var mx = '8';
-
-                var mask;
-
-                window.console.log(countryCode);
-
-                switch(countryCode) {
-                    case ar :
-                        mask = '+54 (9[9][9][9]) 99999999';
-                        break;
-                    case bo :
-                        mask = '+5\\91 (9) 9999999[9]';
-                        break;
-                    case co :
-                        mask = '+57 (9[9][9]) 9999999999[9]';
-                        break;
-                    case ec :
-                        mask = '+5\\93 (9[9]) 9999999[9]';
-                        break;
-                    case pe :
-                        mask = '+51 (9[9][9]) 999999999[9][9]';
-						break;
-					case mx :
-                        mask = '';
-                        break;
-                    default:
-                        mask = "(99) 9999-9999[9]";
-                }
-
-                $('#ipt-form1-3').inputmask({
-                    mask: mask,
-                    placeholder: '',
-                    keepStatic: true,
-                    clearIncomplete: true
-                });
-            })('1');
-
-
-			$('#ipt-form1-4').mask('99999-999');
-
-			$('.wrap-destaque-txt .item-depoimento').slick({
-				dots: false,
-				arrows: true,
-				slidesToShow: 3,
-				slidesToScroll: 3,
-				appendArrows: '.append-arrows-depoimento',
-				responsive: [
-					{
-						breakpoint: 980,
-						settings: {
-							slidesToShow: 2,
-							slidesToScroll: 2,
-							infinite: true,
-							dots: true,
-							arrows: false
-						}
-					},
-					{
-						breakpoint: 768,
-						settings: {
-							slidesToShow: 1,
-							slidesToScroll: 1,
-							arrows: false,
-							dots: true,
-						}
-					}
-				]
-			});
-		});
-		$(document).on('click', 'a[href^="#"]', function (event) {
-			event.preventDefault();
-
-			$('html, body').animate({
-				scrollTop: $($.attr(this, 'href')).offset().top
-			}, 500);
-		});
-	</script>
-
-	<!-- Envio Formulario -->
-	<script>
-		$('form[name="faca-parte"]').submit(function (e) {
-			e.preventDefault();
-
-			var url = $(this).attr('action');
-			var params = {};
-			$.each($(this).serializeArray(), function(_, kv) {
-				params[kv.name] = kv.value;
-			});
-
-			let isValid = true;
-
-			let objER = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9]+(?:\.[a-zA-Z0-9-]+)*$/;
-			if(objER.test(params.email)) {
-				$('#ipt-form1-2-error').hide();
-				$('#ipt-form1-2').removeClass('input-error');
-			} else {
-				$('#ipt-form1-2-error').show();
-				$('#ipt-form1-2').addClass('input-error');
-				isValid = false;
-			}
-
-			if (params.country !== 2 && params.country !== 3) {
-				objER = /^[0-9]{5}-[0-9]{3}$/;
-				if(objER.test(params.zipcode)) {
-					$('#ipt-form1-4-error').hide();
-					$('#ipt-form1-4').removeClass('input-error');
-				} else {
-					$('#ipt-form1-4-error').show();
-					$('#ipt-form1-4').addClass('input-error');
-					isValid = false;
-				}
-			}
-
-            // objER = /^(?:\()[0-9]{2}(?:\))\s?[0-9]{4,5}(?:-)[0-9]{4,5}$/;
-			// if(objER.test(params.phone)) {
-            if(params.phone !== null) {
-				$('#ipt-form1-3-error').hide();
-				$('#ipt-form1-3').removeClass('input-error');
-			} else {
-				$('#ipt-form1-3-error').show();
-				$('#ipt-form1-3').addClass('input-error');
-				isValid = false;
-			}
-
-			if(params.name == 0) {
-				$('#ipt-form1-1-error').show();
-				$('#ipt-form1-1').addClass('input-error');
-				isValid = false;
-			} else {
-				$('#ipt-form1-1-error').hide();
-				$('#ipt-form1-1').removeClass('input-error');
-			}
-
-			if (isValid) {
-				axios.post(url, params)
-				.then(function (response) {
-					var status = response.data.success? 'success': 'warning';
-					var title = response.data.success? 'Sucesso': 'Ops!';
-					var message = response.data.message;
-					swal(title, message, status);
-				})
-				.catch(function (error) {
-                    swal('Falha', 'Ops, tente novamente mais tarde.', 'error');
-                });
-			} else {
-				swal('Falha', 'Verifique se seus dados estão corretos e tente novamente.!', 'error');
-			}
-			
-		});
-	</script>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXUwsLRhdbQ1VeREwMV1QBHQ==","queueTime":0,"applicationTime":168,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXWAUVRQdZGVFGVQwRSh4NC1EHTw==","queueTime":0,"applicationTime":215,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

@@ -14,27 +14,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="Q6zbIJpj-zQZbhRw5SDdhWBP-IcPWRiKUnhvFkYDXCQ" />
     <link rel="stylesheet" href="../assets/website/css/estilo-20190822.css?v=1">
-    <script src="/assets/website/js/jquery-3.2.1.min.js"></script>
-    <script src="/assets/website/js/jquery.validate.min.js"></script>
-    <script src="/assets/website/js/slick.min.js"></script>
-    <script src="/assets/website/js/jquery.mask.js"></script>
-    <link rel="stylesheet" href="/assets/website/css/slick.css">
-    <link rel="stylesheet" href="/assets/website/css/map-styles.css">
+    <script src="../assets/website/js/jquery-3.2.1.min.js"></script>
+    <script src="../assets/website/js/jquery.validate.min.js"></script>
+    <script src="../assets/website/js/slick.min.js"></script>
+    <script src="../assets/website/js/jquery.mask.js"></script>
+    <link rel="stylesheet" href="../assets/website/css/slick.css">
+    <link rel="stylesheet" href="../assets/website/css/map-styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/css/inputmask.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdbJmnnwSV-R5bzygMolEHUkLhVkxS1Jc"></script>
     <script type="text/javascript" src="https://hinode.teleperformance.com.br/HinodeWebApi/AppChat2/chatTP.js"></script>
     <link rel="shortcut icon" href="/assets/website/images/favicon.png">
-    <script src="/assets/website/js/snazzy-info-window.js"></script>
-    <title>Grupo Hinode</title>
-<meta name="description" content="Somos o Grupo Hinode. Um grupo que pensa em conjunto e reúne ideias, pessoas e sonhos em um só lugar. Conheça nosso trabalho entre para o time Hinode!">
-<link rel="canonical" href="https://grupohinode.com/calendario"/>
-<meta property="og:title" content="Grupo Hinode" />
-<meta property="og:description" content="Somos o Grupo Hinode. Um grupo que pensa em conjunto e reúne ideias, pessoas e sonhos em um só lugar. Conheça nosso trabalho entre para o time Hinode!" />
+    <script src="../assets/website/js/snazzy-info-window.js"></script>
+    <title>Nossas marcas | Grupo Hinode</title>
+<meta name="description" content="Conhe&ccedil;a as marcas que comp&otilde;em o Grupo Hinode.">
+<link rel="canonical" href="https://grupohinode.com/marcas-da-hinode"/>
+<meta property="og:title" content="Nossas marcas | Grupo Hinode" />
+<meta property="og:description" content="Conhe&ccedil;a as marcas que comp&otilde;em o Grupo Hinode." />
 <meta property="og:image" content="https://grupohinode.com/assets/website/images/grupo-hinode-fb-image.jpg" />
 
-<meta name="twitter:title" content="Grupo Hinode" />
-<meta name="twitter:description" content="Somos o Grupo Hinode. Um grupo que pensa em conjunto e reúne ideias, pessoas e sonhos em um só lugar. Conheça nosso trabalho entre para o time Hinode!" />
+<meta name="twitter:title" content="Nossas marcas | Grupo Hinode" />
+<meta name="twitter:description" content="Conhe&ccedil;a as marcas que comp&otilde;em o Grupo Hinode." />
 
     <style>
         .input-datepicker {
@@ -44,10 +44,7 @@
 </head>
 <body>
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6GVZV8"
-                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+   
     <div class="wrap-header-total">
   <header class="header">
     <div class="grid1240">
@@ -58,14 +55,7 @@
         </a>
       </h1>
       <div class="wrap-right buttons-menu">
-        <div class="itens-lang">
-          <span>LANGUAGE</span>
-          <ul>
-            <li><a href="//grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-pt.png" alt="">PORTUGUES</a></li>
-            <li><a href="//en.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-en.png" alt="">ENGLISH</a></li>
-            <li><a href="//co.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-es.png" alt="">ESPANHOL</a></li>
-          </ul>
-        </div>
+        
         <a href="https://escritorio.hinode.com.br/login" class="btn-entrar" target="_blank">VIRTUAL OFFICE</a>
       </div>
       </div>
@@ -83,38 +73,38 @@
                 <nav class="menu-main">
           <ul class="list-menu-main">
                <li class='item-menu-main'>
-              <a href="grupoHinode.html" class="link-menu-main">
+              <a href="grupoHinode.php" class="link-menu-main">
                 <span>O GRUPO HINODE</span>
               </a>
             </li>
-            <li class='item-menu-main'>
-              <a href="nossaMarcas.html" class="link-menu-main">
+            <li 
+              class='item-menu-main selected'>
+              <a href="nossaMarcas.php" class="link-menu-main">
                 <span>NOSSAS MARCAS</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="consultores.html" class="link-menu-main">
+              <a href="consultores.php" class="link-menu-main">
                 <span>CONSULTORES(AS)</span>
               </a> 
             </li>
             <li class='item-menu-main'>
-              <a href="hinodeCenter.html" class="link-menu-main">
+              <a href="hinodeCenter.php" class="link-menu-main">
                 <span>HINODE CENTER</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="universidadeHinode.html" class="link-menu-main">
+              <a href="universidadeHinode.php" class="link-menu-main">
                 <span>UNIVERSIDADE HINODE</span>
               </a>
             </li>
                         <li class='item-menu-main item-hide-m'>
-              <a href="acontece.html" class="link-menu-main">
+              <a href="acontece.php" class="link-menu-main">
                 <span>ACONTECE</span>
               </a>
             </li>
-            <li 
-            class='item-menu-main selected'>
-              <a href="calendario.html" class="link-menu-main">
+            <li class='item-menu-main'>
+              <a href="calendario.php" class="link-menu-main">
                 <span>CALENDÁRIO</span>
               </a>
             </li>
@@ -297,58 +287,375 @@
 </script>
 
     <div id="app">
-        
-    <div class="wrap-sub-menu">
-    <nav class="grid1240">
-        <ul class="list-sub-menu itens-center submenu-acontece">
-                            
-                            
-                    </ul>
-    </nav>
-</div>
-    <div class="wrap-universidade-mkt wrap-acontece-banner">
-    <section class="wrap-marketing">
-                    <div class="slider-universidade-txt">
-                <div class="item background-universidade background-acontece-eventos"  style="background-image:url();">
-                    <img src="https://hinode-grupo.s3.sa-east-1.amazonaws.com/post/8e296a06/bff6dff6/featured_image_1674x577.jpeg" alt="">
-                    <div class="grid930">
-                        <div class="content-txt">
-                            <h2 class="title-slider-white">CONVENÇÃO HINODE</h2>
-                            <p class="txt-slider-white">Dias 25 e 26 Janeiro de 2020 o maior evento de marketing multinível do país será realizado no São Paulo Expo.</p>
-                            <a href="" target="_blank" class="btn-default">SAIBA MAIS</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </section>
-    <div class="append-arrows append-slider-marketing"></div>
-</div>
+        	<div class="grid100 wrap-100-btn wrap-100-marca">
+		<div class="item">
+			<a href="#marca-hinode">
+				<img src="https://grupohinode.com/assets/website//images/img-home-1.png" alt="">
+				<p>VOCÊ PODE TUDO</p>
+				<div class="btn-slide-down"></div>
+			</a>
+		</div>
+		<div class="item">
+			<a href="#marca-hnd">
+				<img src="https://grupohinode.com/assets/website//images/img-home-2.png" alt="">
+				<p>VIDA FUNCIONAL</p>
+				<div class="btn-slide-down"></div>
+			</a>
+		</div>
+	</div>
+	<div class="wrap-nossas-marcas-txt">
+		<p>O Grupo Hinode desenvolve produtos de altíssima qualidade em beleza e <br />bem estar e é uma empresa que valoriza e respeita um consumidor cada vez <br />mais exigente.</p>
+	</div>
 
-    <div class="search-bar search-bar-eventos" id="search-bar">
-    <div class="grid1240">
-        <div class="default-inputs">
-            <h3>BUSCAR EVENTOS</h3>
-            <form action="#search-bar" id="frmSearch" style="height: 40px;">
-                <input type="text" name="palavra-chave" value="" placeholder="Palavra-chave" class="ipt-text">
-                <input type="submit" class="ipt-submit" value="">
-                <select name="tipo" id="" onchange="$('#frmSearch').submit()">
-                    <option value="">Tipo</option>
-                                            <option value="1" >Hinode Fest</option>
-                                            <option value="2" >Convenção Internacional</option>
-                                            <option value="3" >Viagens</option>
-                                            <option value="4" >Encontros</option>
-                                    </select>
-                <div class="ipt-datepicker-select">
-                    <datepicker input-class="input-datepicker" :typeable="true" :language="datepickerlocale" format="dd/MM/yyyy" name="data" placeholder="Data" @input="submitForm('#frmSearch')" ></datepicker>
-                </div>
-            </form>
+	<div class="wrap-voce-pode-tudo" id="marca-hinode" style="background-image: url(https://grupohinode.com/assets/website/images/bg-pode-tudo.png)">
+    <div class="grid930">
+        <img src="https://grupohinode.com/assets/website/images/logo-hinode-nossas.png" alt="">
+        <div class="txt-wrap-pode-tudo">
+            <h4>VOCÊ PODE TUDO</h4>
+            <p>
+                Você sabe né? Você sabe que tem um astral que chama a atenção e <br />
+                contagia. Que o espelho não conta nem metade do seu poder. Que <br />
+                a sua determinação é o seu melhor look. Que a sua iniciativa <br />
+                conquista e que sua coragem brilha. Essa é a beleza de quem sabe <br />
+                onde quer chegar, e como chegar lá. E o principal: que a cada vez <br />
+                que redescobre sua independência, você reflete a melhor versão de <br />
+                si mesma para todos a sua volta. E, quando isso acontece, acredite: <br />
+                você cria a sua marca.
+            </p>
+            <div class="wrap-btns">
+                                    <a href="https://hinode.com.br/" class="btn-default" target="_blank">CONHEÇA NOSSOS PRODUTOS</a>
+                                    <a href="https://grupohinode.com/consultores-hinode" class="btn-default" target="_self">SEJA UM(A) CONSULTOR(A)</a>
+                            </div>
         </div>
     </div>
 </div>
-    <section class="news">
-    <posts-list title="MAIS EVENTOS" :initial-data="{&quot;current_page&quot;:1,&quot;data&quot;:[{&quot;id&quot;:83,&quot;title&quot;:&quot;Cruzeiro Hinode&quot;,&quot;description&quot;:&quot;De 03 a 06 de Mar\u00e7o de 2020 o Cruzeiro Hinode parte para mais uma grande viagem!&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:3,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/d2843ab6\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/d2843ab6&quot;,&quot;size&quot;:4676089,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d2843ab6\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/d2843ab6\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/d2843ab6\/conversions&quot;,&quot;size&quot;:4676089,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d2843ab6\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:19:17&quot;,&quot;updated_at&quot;:&quot;2020-02-07 11:40:52&quot;,&quot;order&quot;:1,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;De 03 a 06 de Mar\u00e7o de 2020 o Cruzeiro Hinode parte para mais uma grande viagem!&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d2843ab6\/image_500x282.png&quot;},{&quot;id&quot;:84,&quot;title&quot;:&quot;HND Fest Equador&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/c744233a\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/c744233a&quot;,&quot;size&quot;:4631370,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/c744233a\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/c744233a\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/c744233a\/conversions&quot;,&quot;size&quot;:4631370,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/c744233a\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:35:58&quot;,&quot;updated_at&quot;:&quot;2020-03-16 11:52:05&quot;,&quot;order&quot;:2,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/c744233a\/image_500x282.png&quot;},{&quot;id&quot;:86,&quot;title&quot;:&quot;HND Fest Bol\u00edvia&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/d772086b\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/d772086b&quot;,&quot;size&quot;:4650071,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d772086b\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/d772086b\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/d772086b\/conversions&quot;,&quot;size&quot;:4650071,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d772086b\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:39:58&quot;,&quot;updated_at&quot;:&quot;2020-03-16 11:52:36&quot;,&quot;order&quot;:3,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/d772086b\/image_500x282.png&quot;},{&quot;id&quot;:85,&quot;title&quot;:&quot;HND Fest Col\u00f4mbia&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/a11ab2fe\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/a11ab2fe&quot;,&quot;size&quot;:4651862,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a11ab2fe\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/a11ab2fe\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/a11ab2fe\/conversions&quot;,&quot;size&quot;:4651862,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a11ab2fe\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:37:19&quot;,&quot;updated_at&quot;:&quot;2020-03-16 11:52:52&quot;,&quot;order&quot;:4,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a11ab2fe\/image_500x282.png&quot;},{&quot;id&quot;:87,&quot;title&quot;:&quot;HND Fest Peru&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/b2965694\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/b2965694&quot;,&quot;size&quot;:4636627,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/b2965694\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/b2965694\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/b2965694\/conversions&quot;,&quot;size&quot;:4636627,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/b2965694\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:42:04&quot;,&quot;updated_at&quot;:&quot;2020-03-16 11:53:04&quot;,&quot;order&quot;:5,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/b2965694\/image_500x282.png&quot;},{&quot;id&quot;:88,&quot;title&quot;:&quot;Abertura Oficial M\u00e9xico&quot;,&quot;description&quot;:&quot;Em breve informa\u00e7\u00f5es sobre a abertura oficial no M\u00e9xico.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/81a166ae\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/81a166ae&quot;,&quot;size&quot;:4683615,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/81a166ae\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/81a166ae\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/81a166ae\/conversions&quot;,&quot;size&quot;:4683615,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/81a166ae\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:43:56&quot;,&quot;updated_at&quot;:&quot;2020-03-26 17:32:52&quot;,&quot;order&quot;:6,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Em breve informa\u00e7\u00f5es sobre a abertura oficial no M\u00e9xico.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/81a166ae\/image_500x282.png&quot;},{&quot;id&quot;:90,&quot;title&quot;:&quot;Hinode Fest Salvador&quot;,&quot;description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/8a959c3d\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/8a959c3d&quot;,&quot;size&quot;:4712628,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8a959c3d\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/8a959c3d\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/8a959c3d\/conversions&quot;,&quot;size&quot;:4712628,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8a959c3d\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:49:14&quot;,&quot;updated_at&quot;:&quot;2020-03-20 11:24:28&quot;,&quot;order&quot;:7,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Evento adiado, em breve novas informa\u00e7\u00f5es.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8a959c3d\/image_500x282.png&quot;},{&quot;id&quot;:89,&quot;title&quot;:&quot;Viagem para Disney&quot;,&quot;description&quot;:&quot;No m\u00eas de Junho nossos Triplos Diamantes v\u00e3o para Disney.&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:3,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/a8b389c8\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/a8b389c8&quot;,&quot;size&quot;:4643246,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a8b389c8\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/a8b389c8\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/a8b389c8\/conversions&quot;,&quot;size&quot;:4643246,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a8b389c8\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:45:51&quot;,&quot;updated_at&quot;:&quot;2020-02-07 12:16:56&quot;,&quot;order&quot;:8,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;No m\u00eas de Junho nossos Triplos Diamantes v\u00e3o para Disney.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a8b389c8\/image_500x282.png&quot;},{&quot;id&quot;:91,&quot;title&quot;:&quot;HND Fest S\u00e3o Paulo&quot;,&quot;description&quot;:&quot;Dia 08 de Julho acontece o Hinode Fest S\u00e3o Paulo. Garanta sua presen\u00e7a!&quot;,&quot;type&quot;:&quot;events&quot;,&quot;subtype_id&quot;:1,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_500x282.png&quot;,&quot;path&quot;:&quot;post\/a3fbf2f2\/image_500x282.png&quot;,&quot;basePath&quot;:&quot;post\/a3fbf2f2&quot;,&quot;size&quot;:4717016,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a3fbf2f2\/image_500x282.png&quot;,&quot;width&quot;:500,&quot;height&quot;:282,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/a3fbf2f2\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/a3fbf2f2\/conversions&quot;,&quot;size&quot;:4717016,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a3fbf2f2\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:null,&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2020-02-07 11:55:41&quot;,&quot;updated_at&quot;:&quot;2020-02-07 12:16:56&quot;,&quot;order&quot;:9,&quot;created_at_formatted&quot;:&quot;07\/02\/2020&quot;,&quot;short_description&quot;:&quot;Dia 08 de Julho acontece o Hinode Fest S\u00e3o Paulo. Garanta sua presen\u00e7a!&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/a3fbf2f2\/image_500x282.png&quot;}],&quot;first_page_url&quot;:&quot;?page=1&quot;,&quot;from&quot;:1,&quot;last_page&quot;:2,&quot;last_page_url&quot;:&quot;?page=2&quot;,&quot;next_page_url&quot;:&quot;?page=2&quot;,&quot;path&quot;:&quot;&quot;,&quot;per_page&quot;:9,&quot;prev_page_url&quot;:null,&quot;to&quot;:9,&quot;total&quot;:17,&quot;has_more_pages&quot;:true}"></posts-list>
-</section>
 
+<div class="wrap-marcas" id="marca-hinode">
+    <div class="slider-brands">
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/adelaide" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Adelaide-em-flor.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/emporio/por-marca/aroma-di" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/aromadi.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/divisao-tratamento/por-marca/lignea" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/CORPS.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/dynamic" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/DYNAMIC.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/ella" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/ella.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/venyx" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/venyx.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/feelin" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Feelin.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/produtos-para-os-cabelos/por-marca/h-expert" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/H-Expert.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/hands" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/HANDS.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/divisao-tratamento/por-marca/hinode-men" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Hinode-Men.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/hinos-wonderful" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/hinos-wounderful.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hndoficial.com.br/" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/HND.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/ileg" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/ileg.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/inebriante" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Inebriante.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/joli" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/joli.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/lattitude" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Lattitude.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/leser" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Leser.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/grand" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Grand.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/pro" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/pro-white.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/strax" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/strax.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/por-marca/spot" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/spot.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/empire" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/empire.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/enigma" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/enigma.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/hype" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/hype.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/dazzle" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/dazzle.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/eterna" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/eterna.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/grace" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/grace.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href=" https://hinode.com.br/c/fragrancias/fragrancias-femininos/rebelle" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/rebelle.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/sens" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/sens.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/pcpcleiton" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/solaris.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/routine" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/routine.png" alt="">
+                    </a>
+                </div>
+            </div>
+                    <div class="">
+                <div class="item-brand">
+                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-infantis/mania-de-alegria" target="_blank">
+                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/mania.png" alt="">
+                    </a>
+                </div>
+            </div>
+            </div>
+    <div class="arrows-brands"></div>
+</div>
+
+<div class="wrap-lancamento">
+    <div class="slider-lancamentos">
+                    <div class="slide bg-slide-fragrancia">
+                <a href="https://hinode.com.br/c/fragrancias" target="_blank">
+                    <h4 class="title-default">FRAGRÂNCIAS</h4>
+                    <div class="btn-default">SAIBA MAIS</div>
+                </a>
+            </div>
+                    <div class="slide bg-slide-maquiagem">
+                <a href="https://hinode.com.br/c/produtos-de-maquiagem" target="_blank">
+                    <h4 class="title-default">MAQUIAGEM</h4>
+                    <div class="btn-default">CONHEÇA</div>
+                </a>
+            </div>
+                    <div class="slide bg-slide-cuidados">
+                <a href="https://hinode.com.br/c/produtos-cosmeticos-para-homens" target="_blank">
+                    <h4 class="title-default">CUIDADOS PESSOAIS</h4>
+                    <div class="btn-default">SAIBA MAIS</div>
+                </a>
+            </div>
+                    <div class="slide bg-slide-emporio">
+                <a href="https://hinode.com.br/c/produtos-para-bem-estar-em-casa" target="_blank">
+                    <h4 class="title-default">EMPÓRIO</h4>
+                    <div class="btn-default">CONHEÇA</div>
+                </a>
+            </div>
+                    <div class="slide bg-slide-essencial">
+                <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/grand" target="_blank">
+                    <h4 class="title-default white">ESSENCIAL PARA HOMENS</h4>
+                    <div class="btn-default">SAIBA MAIS</div>
+                </a>
+            </div>
+            </div>
+</div>
+
+	<div class="wrap-voce-pode-tudo wrap-vida-funcional">
+    <div class="grid930">
+        <img src="https://grupohinode.com/assets/website/images/hnd.png" alt="">
+        <div class="txt-wrap-pode-tudo">
+            <h4>VIDA FUNCIONAL</h4>
+            <p>
+                Eu sou a minha força. Minha saúde depende só de mim. Sou eu, <br />
+                minha consciência e minhas escolhas. E a cidade é o cenário de <br />
+                cada desafio e cada conquista. Ativa é a minha rotina. E a <br />
+                disposição a mais é para ir além. Alto, só o valor que dou para o <br />
+                meu corpo. Fora isso, é tudo na medida. A medida certa de <br />
+                energia para seguir em frente e chegar ainda mais longe.
+            </p>
+            <div class="wrap-btns">
+                                    <a href="https://hndoficial.com.br" class="btn-default" target="_blank">CONHEÇA NOSSOS PRODUTOS</a>
+                                    <a href="https://grupohinode.com/consultores-hinode" class="btn-default" target="_self">SEJA UM(A) CONSULTOR(A)</a>
+                            </div>
+        </div>
+    </div>
+</div>
+
+<div class="wrap-lancamento marcas-hnd" id="marca-hnd">
+    <div class="slider-lancamentos">
+                    <div class="slide bg-slide-bem-estar">
+                <a href="https://hndoficial.com.br/c/produtos-nutricosmeticos/por-tipo-de-produto/shake" target="_blank">
+                    <h4>BEM-ESTAR</h4>
+                    <div class="btn-default">SAIBA MAIS</div>
+                </a>
+            </div>
+                    <div class="slide bg-slide-performance">
+                <a href="https://hndoficial.com.br/c/produto-para-performance" target="_blank">
+                    <h4>PERFORMANCE</h4>
+                    <div class="btn-default">CONHEÇA</div>
+                </a>
+            </div>
+            </div>
+</div>
+	<h3 class="title-default">PRÊMIOS</h3>
+<div class="total-premios-marca">
+    <div class="wrap-premios-marca">
+                    <div class="slide premio-1"></div>
+                    <div class="slide premio-2"></div>
+                    <div class="slide premio-3"></div>
+                    <div class="slide premio-4"></div>
+                    <div class="slide premio-5"></div>
+            </div>
+    <div class="append-arrows"></div>
+</div>
+
+	<div class="wrap-destaque-txt">
+    <div class="content">
+        <h4 class="title-default">REVENDA NOSSOS PRODUTOS <br />E VENÇA JUNTO COM A GENTE</h4>
+        <p>O Grupo Hinode possui duas marcas consolidadas no mercado cerca de 600 produtos, <br />
+            dentre eles perfumaria, bem-estar, higiene pessoal,  maquiagem e cosméticos.<br />
+            É um enorme portfólio para oferecer aos seus clientes os melhores produtos.</p>
+        <a href="https://grupohinode.com/consultores-hinode" class="btn-default btn-default-consultor">QUERO SER UM(A) CONSULTOR(A)</a>
+        <p class="disclaimer">
+            Ainda está com dúvidas? Acesse as outras seções do site <br />para mais informações ou <a href="">encontre sua dúvida em Ajuda.</a><br /> Caso prefira, <a href="">converse com um de nossos consultores.</a>
+        </p>
+    </div>
+</div>
     </div>
 
     <div class="bg-menu"></div>
@@ -509,7 +816,7 @@
 </div>
 
 
-        
+    	
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
 
         <script>
@@ -600,7 +907,7 @@
         <!--[if lt IE 8]>
         <![endif]-->
         <!--Fim dos arquivos Javascript-->
-        <script src="/assets/website/js/app-20190411.js?v=123"></script>
+        <script src="../assets/website/js/app-20190411.js?v=123"></script>
 
     
 
@@ -626,5 +933,65 @@
 </script>
 
 
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXWAUVRQdZGVFGVQwRSh4NC1EHTw==","queueTime":0,"applicationTime":215,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+	<script>
+		$(document).on('click', 'a[href^="#"]', function (event) {
+			event.preventDefault();
+
+			$('html, body').animate({
+				scrollTop: $($.attr(this, 'href')).offset().top
+			}, 500);
+		});
+		$('.slider-lancamentos').slick({
+			dots: true,
+			infinite: true,
+			arrows: false
+		});
+		$('.wrap-premios-marca').slick({
+			dots: false,
+			appendArrows: '.append-arrows',
+			responsive: [
+			{
+				breakpoint: 980,
+				settings: {
+					arrows: false,
+					dots: true
+				}
+			}]
+		});
+
+		$('.slider-brands').slick({
+			dots: false,
+			appendArrows: '.arrows-brands',
+			arrows: true,
+			slidesToShow: 4,
+			slidesToScroll: 4,
+			autoplaySpeed: 5000,
+			responsive: [
+				{
+					breakpoint: 980,
+					settings: {
+						slidesToShow: 3,
+						slidesToScroll: 3,
+					}
+				},
+				{
+					breakpoint: 768,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 2,
+						autoplaySpeed: 3000,
+					}
+				},
+				{
+					breakpoint: 500,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1,
+					}
+				}
+            ]
+			
+		});
+	</script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXXxEXGABFVlpUQw==","queueTime":0,"applicationTime":152,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

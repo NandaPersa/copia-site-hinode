@@ -14,27 +14,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="Q6zbIJpj-zQZbhRw5SDdhWBP-IcPWRiKUnhvFkYDXCQ" />
     <link rel="stylesheet" href="../assets/website/css/estilo-20190822.css?v=1">
-    <script src="/assets/website/js/jquery-3.2.1.min.js"></script>
-    <script src="/assets/website/js/jquery.validate.min.js"></script>
-    <script src="/assets/website/js/slick.min.js"></script>
-    <script src="/assets/website/js/jquery.mask.js"></script>
-    <link rel="stylesheet" href="/assets/website/css/slick.css">
-    <link rel="stylesheet" href="/assets/website/css/map-styles.css">
+    <script src="../assets/website/js/jquery-3.2.1.min.js"></script>
+    <script src="../assets/website/js/jquery.validate.min.js"></script>
+    <script src="../assets/website/js/slick.min.js"></script>
+    <script src="../assets/website/js/jquery.mask.js"></script>
+    <link rel="stylesheet" href="../assets/website/css/slick.css">
+    <link rel="stylesheet" href="../assets/website/css/map-styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/css/inputmask.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdbJmnnwSV-R5bzygMolEHUkLhVkxS1Jc"></script>
     <script type="text/javascript" src="https://hinode.teleperformance.com.br/HinodeWebApi/AppChat2/chatTP.js"></script>
     <link rel="shortcut icon" href="/assets/website/images/favicon.png">
-    <script src="/assets/website/js/snazzy-info-window.js"></script>
-    <title>Nossas marcas | Grupo Hinode</title>
-<meta name="description" content="Conhe&ccedil;a as marcas que comp&otilde;em o Grupo Hinode.">
-<link rel="canonical" href="https://grupohinode.com/marcas-da-hinode"/>
-<meta property="og:title" content="Nossas marcas | Grupo Hinode" />
-<meta property="og:description" content="Conhe&ccedil;a as marcas que comp&otilde;em o Grupo Hinode." />
+    <script src="../assets/website/js/snazzy-info-window.js"></script>
+    <title>Consultores Hinode | Grupo Hinode</title>
+<meta name="description" content="Os consultores independentes do Grupo Hinode, al&eacute;m de conquistarem sua idepend&ecirc;ncia financeira, ainda podem receber uma s&eacute;rie de b&ocirc;nus e pr&ecirc;mios. Saiba como!">
+<link rel="canonical" href="https://grupohinode.com/consultores-hinode"/>
+<meta property="og:title" content="Consultores Hinode | Grupo Hinode" />
+<meta property="og:description" content="Os consultores independentes do Grupo Hinode, al&eacute;m de conquistarem sua idepend&ecirc;ncia financeira, ainda podem receber uma s&eacute;rie de b&ocirc;nus e pr&ecirc;mios. Saiba como!" />
 <meta property="og:image" content="https://grupohinode.com/assets/website/images/grupo-hinode-fb-image.jpg" />
 
-<meta name="twitter:title" content="Nossas marcas | Grupo Hinode" />
-<meta name="twitter:description" content="Conhe&ccedil;a as marcas que comp&otilde;em o Grupo Hinode." />
+<meta name="twitter:title" content="Consultores Hinode | Grupo Hinode" />
+<meta name="twitter:description" content="Os consultores independentes do Grupo Hinode, al&eacute;m de conquistarem sua idepend&ecirc;ncia financeira, ainda podem receber uma s&eacute;rie de b&ocirc;nus e pr&ecirc;mios. Saiba como!" />
 
     <style>
         .input-datepicker {
@@ -44,10 +44,7 @@
 </head>
 <body>
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6GVZV8"
-                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+   
     <div class="wrap-header-total">
   <header class="header">
     <div class="grid1240">
@@ -58,14 +55,7 @@
         </a>
       </h1>
       <div class="wrap-right buttons-menu">
-        <div class="itens-lang">
-          <span>LANGUAGE</span>
-          <ul>
-            <li><a href="//grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-pt.png" alt="">PORTUGUES</a></li>
-            <li><a href="//en.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-en.png" alt="">ENGLISH</a></li>
-            <li><a href="//co.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-es.png" alt="">ESPANHOL</a></li>
-          </ul>
-        </div>
+       
         <a href="https://escritorio.hinode.com.br/login" class="btn-entrar" target="_blank">VIRTUAL OFFICE</a>
       </div>
       </div>
@@ -83,38 +73,38 @@
                 <nav class="menu-main">
           <ul class="list-menu-main">
                <li class='item-menu-main'>
-              <a href="grupoHinode.html" class="link-menu-main">
+              <a href="grupoHinode.php" class="link-menu-main">
                 <span>O GRUPO HINODE</span>
+              </a>
+            </li>
+            <li class='item-menu-main'>
+              <a href="nossaMarcas.php" class="link-menu-main">
+                <span>NOSSAS MARCAS</span>
               </a>
             </li>
             <li 
               class='item-menu-main selected'>
-              <a href="nossaMarcas.html" class="link-menu-main">
-                <span>NOSSAS MARCAS</span>
-              </a>
-            </li>
-            <li class='item-menu-main'>
-              <a href="consultores.html" class="link-menu-main">
+              <a href="consultores.php" class="link-menu-main">
                 <span>CONSULTORES(AS)</span>
               </a> 
             </li>
             <li class='item-menu-main'>
-              <a href="hinodeCenter.html" class="link-menu-main">
+              <a href="hinodeCenter.php" class="link-menu-main">
                 <span>HINODE CENTER</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="universidadeHinode.html" class="link-menu-main">
+              <a href="universidadeHinode.php" class="link-menu-main">
                 <span>UNIVERSIDADE HINODE</span>
               </a>
             </li>
                         <li class='item-menu-main item-hide-m'>
-              <a href="acontece.html" class="link-menu-main">
+              <a href="acontece.php" class="link-menu-main">
                 <span>ACONTECE</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="calendario.html" class="link-menu-main">
+              <a href="calendario.php" class="link-menu-main">
                 <span>CALENDÁRIO</span>
               </a>
             </li>
@@ -297,373 +287,205 @@
 </script>
 
     <div id="app">
-        	<div class="grid100 wrap-100-btn wrap-100-marca">
-		<div class="item">
-			<a href="#marca-hinode">
-				<img src="https://grupohinode.com/assets/website//images/img-home-1.png" alt="">
-				<p>VOCÊ PODE TUDO</p>
-				<div class="btn-slide-down"></div>
-			</a>
-		</div>
-		<div class="item">
-			<a href="#marca-hnd">
-				<img src="https://grupohinode.com/assets/website//images/img-home-2.png" alt="">
-				<p>VIDA FUNCIONAL</p>
-				<div class="btn-slide-down"></div>
-			</a>
-		</div>
-	</div>
-	<div class="wrap-nossas-marcas-txt">
-		<p>O Grupo Hinode desenvolve produtos de altíssima qualidade em beleza e <br />bem estar e é uma empresa que valoriza e respeita um consumidor cada vez <br />mais exigente.</p>
-	</div>
-
-	<div class="wrap-voce-pode-tudo" id="marca-hinode" style="background-image: url(https://grupohinode.com/assets/website/images/bg-pode-tudo.png)">
+        
+			<div class="wrap-uma-escolha">
+</div>	
+	<div class="wrap-meu-lugar">
     <div class="grid930">
-        <img src="https://grupohinode.com/assets/website/images/logo-hinode-nossas.png" alt="">
-        <div class="txt-wrap-pode-tudo">
-            <h4>VOCÊ PODE TUDO</h4>
-            <p>
-                Você sabe né? Você sabe que tem um astral que chama a atenção e <br />
-                contagia. Que o espelho não conta nem metade do seu poder. Que <br />
-                a sua determinação é o seu melhor look. Que a sua iniciativa <br />
-                conquista e que sua coragem brilha. Essa é a beleza de quem sabe <br />
-                onde quer chegar, e como chegar lá. E o principal: que a cada vez <br />
-                que redescobre sua independência, você reflete a melhor versão de <br />
-                si mesma para todos a sua volta. E, quando isso acontece, acredite: <br />
-                você cria a sua marca.
-            </p>
-            <div class="wrap-btns">
-                                    <a href="https://hinode.com.br/" class="btn-default" target="_blank">CONHEÇA NOSSOS PRODUTOS</a>
-                                    <a href="https://grupohinode.com/consultores-hinode" class="btn-default" target="_self">SEJA UM(A) CONSULTOR(A)</a>
-                            </div>
-        </div>
-    </div>
-</div>
-
-<div class="wrap-marcas" id="marca-hinode">
-    <div class="slider-brands">
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/adelaide" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Adelaide-em-flor.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/emporio/por-marca/aroma-di" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/aromadi.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/divisao-tratamento/por-marca/lignea" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/CORPS.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/dynamic" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/DYNAMIC.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/ella" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/ella.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/venyx" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/venyx.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/feelin" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Feelin.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/produtos-para-os-cabelos/por-marca/h-expert" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/H-Expert.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/hands" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/HANDS.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/divisao-tratamento/por-marca/hinode-men" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Hinode-Men.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/hinos-wonderful" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/hinos-wounderful.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hndoficial.com.br/" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/HND.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/ileg" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/ileg.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/inebriante" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Inebriante.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/joli" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/joli.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/lattitude" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Lattitude.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/leser" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Leser.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/grand" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/Grand.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/pro" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/pro-white.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/strax" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/strax.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/por-marca/spot" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/spot.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/empire" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/empire.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/enigma" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/enigma.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/hype" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/hype.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/dazzle" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/dazzle.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/eterna" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/eterna.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-femininos/grace" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/grace.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href=" https://hinode.com.br/c/fragrancias/fragrancias-femininos/rebelle" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/rebelle.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/sens" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/sens.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/pcpcleiton" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/solaris.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/cuidados-pessoais/por-marca/routine" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/routine.png" alt="">
-                    </a>
-                </div>
-            </div>
-                    <div class="">
-                <div class="item-brand">
-                    <a href="https://hinode.com.br/c/fragrancias/fragrancias-infantis/mania-de-alegria" target="_blank">
-                        <img src="https://grupohinode.com/assets/website/images/marcas-hinode/mania.png" alt="">
-                    </a>
-                </div>
-            </div>
-            </div>
-    <div class="arrows-brands"></div>
-</div>
-
-<div class="wrap-lancamento">
-    <div class="slider-lancamentos">
-                    <div class="slide bg-slide-fragrancia">
-                <a href="https://hinode.com.br/c/fragrancias" target="_blank">
-                    <h4 class="title-default">FRAGRÂNCIAS</h4>
-                    <div class="btn-default">SAIBA MAIS</div>
-                </a>
-            </div>
-                    <div class="slide bg-slide-maquiagem">
-                <a href="https://hinode.com.br/c/produtos-de-maquiagem" target="_blank">
-                    <h4 class="title-default">MAQUIAGEM</h4>
-                    <div class="btn-default">CONHEÇA</div>
-                </a>
-            </div>
-                    <div class="slide bg-slide-cuidados">
-                <a href="https://hinode.com.br/c/produtos-cosmeticos-para-homens" target="_blank">
-                    <h4 class="title-default">CUIDADOS PESSOAIS</h4>
-                    <div class="btn-default">SAIBA MAIS</div>
-                </a>
-            </div>
-                    <div class="slide bg-slide-emporio">
-                <a href="https://hinode.com.br/c/produtos-para-bem-estar-em-casa" target="_blank">
-                    <h4 class="title-default">EMPÓRIO</h4>
-                    <div class="btn-default">CONHEÇA</div>
-                </a>
-            </div>
-                    <div class="slide bg-slide-essencial">
-                <a href="https://hinode.com.br/c/fragrancias/fragrancias-masculinos/grand" target="_blank">
-                    <h4 class="title-default white">ESSENCIAL PARA HOMENS</h4>
-                    <div class="btn-default">SAIBA MAIS</div>
-                </a>
-            </div>
-            </div>
-</div>
-
-	<div class="wrap-voce-pode-tudo wrap-vida-funcional">
-    <div class="grid930">
-        <img src="https://grupohinode.com/assets/website/images/hnd.png" alt="">
-        <div class="txt-wrap-pode-tudo">
-            <h4>VIDA FUNCIONAL</h4>
-            <p>
-                Eu sou a minha força. Minha saúde depende só de mim. Sou eu, <br />
-                minha consciência e minhas escolhas. E a cidade é o cenário de <br />
-                cada desafio e cada conquista. Ativa é a minha rotina. E a <br />
-                disposição a mais é para ir além. Alto, só o valor que dou para o <br />
-                meu corpo. Fora isso, é tudo na medida. A medida certa de <br />
-                energia para seguir em frente e chegar ainda mais longe.
-            </p>
-            <div class="wrap-btns">
-                                    <a href="https://hndoficial.com.br" class="btn-default" target="_blank">CONHEÇA NOSSOS PRODUTOS</a>
-                                    <a href="https://grupohinode.com/consultores-hinode" class="btn-default" target="_self">SEJA UM(A) CONSULTOR(A)</a>
-                            </div>
-        </div>
-    </div>
-</div>
-
-<div class="wrap-lancamento marcas-hnd" id="marca-hnd">
-    <div class="slider-lancamentos">
-                    <div class="slide bg-slide-bem-estar">
-                <a href="https://hndoficial.com.br/c/produtos-nutricosmeticos/por-tipo-de-produto/shake" target="_blank">
-                    <h4>BEM-ESTAR</h4>
-                    <div class="btn-default">SAIBA MAIS</div>
-                </a>
-            </div>
-                    <div class="slide bg-slide-performance">
-                <a href="https://hndoficial.com.br/c/produto-para-performance" target="_blank">
-                    <h4>PERFORMANCE</h4>
-                    <div class="btn-default">CONHEÇA</div>
-                </a>
-            </div>
-            </div>
-</div>
-	<h3 class="title-default">PRÊMIOS</h3>
-<div class="total-premios-marca">
-    <div class="wrap-premios-marca">
-                    <div class="slide premio-1"></div>
-                    <div class="slide premio-2"></div>
-                    <div class="slide premio-3"></div>
-                    <div class="slide premio-4"></div>
-                    <div class="slide premio-5"></div>
-            </div>
-    <div class="append-arrows"></div>
-</div>
-
-	<div class="wrap-destaque-txt">
-    <div class="content">
-        <h4 class="title-default">REVENDA NOSSOS PRODUTOS <br />E VENÇA JUNTO COM A GENTE</h4>
-        <p>O Grupo Hinode possui duas marcas consolidadas no mercado cerca de 600 produtos, <br />
-            dentre eles perfumaria, bem-estar, higiene pessoal,  maquiagem e cosméticos.<br />
-            É um enorme portfólio para oferecer aos seus clientes os melhores produtos.</p>
-        <a href="https://grupohinode.com/consultores-hinode" class="btn-default btn-default-consultor">QUERO SER UM(A) CONSULTOR(A)</a>
-        <p class="disclaimer">
-            Ainda está com dúvidas? Acesse as outras seções do site <br />para mais informações ou <a href="">encontre sua dúvida em Ajuda.</a><br /> Caso prefira, <a href="">converse com um de nossos consultores.</a>
+        <h3>AQUI É O MEU <br />LUGAR</h3>
+        <p>
+            O Grupo Hinode possui duas marcas<br />
+            consolidadas no mercado com cerca de 600<br />
+            produtos, dentre eles perfumaria, bem-estar,<br />
+            higiene pessoal, maquiagem e cosméticos.
         </p>
+        <a href="#faca-parte" class="btn-default">SEJA UM(A) CONSULTOR(A)</a>
+    </div>
+</div>
+	<div class="wrap-total-content-white wrap-total-mkt">
+    <div class="slider">
+                    <div class="slide">
+                <img src="https://grupohinode.com/assets/website/images/img-mkt-slider-1.png" alt="">
+                <div class="grid1240">
+                    <div class="content-slide-txt content-slide-right">
+                        <h3>MARKETING MULTINÍVEL</h3>
+                        <p>Ou marketing de rede, é um modelo de negócio com muitas vantagens para os Consultores de Negócio como ter seu próprio negócio e poder gerenciá-lo, flexibilidade de horário, você cria seu ganho de acordo com sua disponibilidade e dedicação.</p>
+                    </div>
+                </div>
+            </div>
+                    <div class="slide">
+                <img src="https://grupohinode.com/assets/website/images/img-mkt-slider-2.png" alt="">
+                <div class="grid1240">
+                    <div class="content-slide-txt content-slide-right">
+                        <h3>VENDA DIRETA</h3>
+                        <p>Os produtos podem ser revendidos pelos Consultores de Negócio com ganho de 100%.<br /><br />
+                        O Grupo Hinode é referência em um modelo inovador da venda direta que, com a comercialização dos produtos, transforma a vida das pessoas por meio da atitude empreendedora.</p>
+                    </div>
+                </div>
+            </div>
+                    <div class="slide">
+                <img src="https://grupohinode.com/assets/website/images/img-mkt-slider-3.png" alt="">
+                <div class="grid1240">
+                    <div class="content-slide-txt content-slide-right">
+                        <h3>CONSUMO INTELIGENTE</h3>
+                        <p>Os produtos adquiridos pelos Consultores podem ser usados para consumo próprio pois são produtos do dia a dia das pessoas (maquiagem, cosméticos, higiene, perfumes).</p>
+                    </div>
+                </div>
+            </div>
+            </div>
+    <div class="append-arrows append-arrows-mkt"></div>
+</div>
+    <div class="wrap-viagens-premios">
+    <h2 class="title-default">VIAGENS E PRÊMIOS</h2>
+    <div class="slider">
+                    <div class="item item-premios bg-slide-premios-1-1">
+                <div class="wrap-content-premios grid930">
+                    <div class="wrap-titulo-premio">
+                        <h3>PRÊMIOS</h3>
+                        <p>Uma BMW 0km</p>
+                    </div>
+                </div>
+            </div>
+                    <div class="item item-premios bg-slide-premios-2-1">
+                <div class="wrap-content-premios grid930">
+                    <div class="wrap-titulo-premio">
+                        <h3>VIAGENS E PRÊMIOS</h3>
+                        <p>Viagem para Disney e uma BMW 0km.</p>
+                    </div>
+                </div>
+            </div>
+                    <div class="item item-premios bg-slide-premios-3-1">
+                <div class="wrap-content-premios grid930">
+                    <div class="wrap-titulo-premio">
+                        <h3>VIAGENS E PRÊMIOS</h3>
+                        <p>Viagem para Europa e uma Evoque 0km</p>
+                    </div>
+                </div>
+            </div>
+                    <div class="item item-premios bg-slide-premios-4-1">
+                <div class="wrap-content-premios grid930">
+                    <div class="wrap-titulo-premio">
+                        <h3>VIAGENS E PRÊMIOS</h3>
+                        <p>Cruzeiro pela costa brasileira.</p>
+                    </div>
+                </div>
+            </div>
+                    <div class="item item-premios bg-slide-premios-5-1">
+                <div class="wrap-content-premios grid930">
+                    <div class="wrap-titulo-premio">
+                        <h3>VIAGENS E PRÊMIOS</h3>
+                        <p>Viagem para Cancún.</p>
+                    </div>
+                </div>
+            </div>
+            </div>
+    <div class="append-arrows append-slider-dez-formas"></div>
+</div>
+
+    <div class="wrap-eventos-premiacoes">
+    <h2 class="title-default">EVENTOS E PREMIAÇÕES</h2>
+    <div class="grid100">
+                    <div class="item"><img src="https://grupohinode.com/assets/website/images/hinode-eventos-premiacoes-1-v2.jpg" alt=""></div>
+                    <div class="item"><img src="https://grupohinode.com/assets/website/images/hinode-eventos-premiacoes-2-v2.jpg" alt=""></div>
+            </div>
+</div>
+    <div class="wrap-total-slider wrap-total-content-white wrap-total-cresca">
+    <div class="slide">
+        <img src="https://grupohinode.com/assets/website/images/bg_cresca-suporte.png" alt="">
+        <div class="grid1240">
+            <div class="content-slide-txt">
+                <h3>CRESÇA COM O NOSSO SUPORTE</h3>
+                 <p>UNIVERSIDADE HINODE</p>
+                <p>Participe de treinamentos presenciais e online neste suporte exclusivo para Consultores(as) Hinode. </p>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="wrap-destaque-txt">
+    <div class="content">
+        <h4 class="title-default">MILHARES DE FAMÍLIAS JÁ ESTÃO <br />VENCENDO COM O GRUPO HINODE</h4>
+    </div>
+    <div class="slider">
+        <div class="content slide">
+            <div class="item-depoimento grid930">
+                                    <div class="depoimento">
+                        <p>"Se eu pudesse escolher uma frase que nos inspirou a chegar até aqui, seria: 'Eu vi o futuro e
+                            decidi viver nele. Eu vi o futuro, e fiz dele a minha morada!', do Renê Terra Nova. Decidimos viver
+                            o futuro como grandes líderes, cumprindo a missão Hinode ao redor do mundo."</p>
+                        <h5>AMANDA UCHÔA E DANIEL, AM</h5>
+                    </div>
+                                    <div class="depoimento">
+                        <p>"O negócio proporciona algo tão mágico, que só pode ter a mão de Deus. Superamos os limites e deu tudo certo."</p>
+                        <h5>EVANDRO VIANNA, DF</h5>
+                    </div>
+                                    <div class="depoimento">
+                        <p>"Quando alcançamos a independência financeira, nossa motivação caiu um pouco. Entedemos,
+                            então, que a felicidade está em cumprir a missão da empresa. É como diz o ditado: 'a felicidade
+                            está na jornada e não no destino."</p>
+                        <h5>MARGARETE HENSLER E ANDRÉ ROBERTI, SP</h5>
+                    </div>
+                                    <div class="depoimento">
+                        <p>"O que realmente faz a diferença neste negócio? É o que eu sempre digo: 'Hoje estou disposto a
+                            fazer coisas que poucas pessoas estão dispostas a fazer, mas amanhã poderei fazer coisas que
+                            poucas pessoas podem fazer."</p>
+                        <h5>ELTON OSHIRO, MS</h5>
+                    </div>
+                                    <div class="depoimento">
+                        <p>"Uma frase que compartilhamos com nossa rede diz tudo: é muito importante saber onde você
+                            está indo, pois, se estiver muito rápido na direção errada, pode perder o foco. Saber aonde quer
+                            chegar é o primeiro passo do sucesso!"</p>
+                        <h5>JACQUELINE PALMA E GENISSON CARVALHO, SE</h5>
+                    </div>
+                                    <div class="depoimento">
+                        <p>"Quando alcançamos a independência financeira, nossa motivação caiu um pouco. Entendemos,
+                            então, que a felicidade está em cumprir a missão da empresa. É como diz o ditado:
+                            "a felicidade está na jornada e não no destino."</p>
+                        <h5>MOISÉS E IRENE CORREA DE FARIA, SC</h5>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    <div class="append-arrows append-arrows-depoimento"></div>
+</div>
+    <div class="wrap-faca-parte-form grid1015" id="faca-parte">
+    <div class="wrap-grid-two grid-wrap-txt">
+        <h3 class="title-default">FAÇA PARTE E VENÇA JUNTO COM A GENTE</h3>
+        <p class="txt-justify">
+            Ao se cadastrar, você terá acesso a diversas formas de ganho que a Hinode oferece. É a sua oportunidade de mudar de vida e oferecer esta mesma oportunidade para milhares de pessoas.<br /><br />
+            Faça seu cadastro agora mesmo e venha fazer parte da família Hinode.
+        </p>
+        <p class="disclaimer">
+            Ainda está com dúvidas? Acesse as outras seções do site <br />para mais informações ou <a href="#" class="consultant_chatbot">encontre sua dúvida em nossa atendente virtual. </a><br />
+        </p>
+    </div>
+    <div class="wrap-grid-two">
+        <div class="new-register form-default">
+            <form name="faca-parte" method="post" action="https://grupohinode.com/consultores-hinode/cadastrar">
+                <input type="hidden" name="utm_source" value="">
+                <input type="hidden" name="utm_content" value="">
+
+                <input type="hidden" name="country" value="1">
+
+                <input type="text" id="ipt-form1-1" name="name" required placeholder="Insira seu nome">
+                <p id="ipt-form1-1-error" class="error-msg msg-erro-left">Por favor verifique se o nome está preenchido corretamente.</p>
+                <input type="text" id="ipt-form1-2" name="email" required placeholder="Insira seu e-mail">
+                <p id="ipt-form1-2-error" class="error-msg msg-erro-left">Por favor verifique se o email está preenchido corretamente.</p>
+                <input type="text" id="ipt-form1-3" name="phone" required placeholder="Telefone">
+                <p id="ipt-form1-3-error" class="error-msg msg-erro-left">Por favor verifique se o telefone está preenchido corretamente.</p>
+                                    <input type="text" id="ipt-form1-4" name="zipcode" required placeholder="CEP">
+                    <p id="ipt-form1-4-error" class="error-msg msg-erro-left">Por favor verifique se o cep está preenchido corretamente.</p>
+                                                <select name="origin" required>
+                                            <option value="0">Como nos conheceu</option>
+                                            <option value="TV">TV</option>
+                                            <option value="Rádio">Rádio</option>
+                                            <option value="Mobiliário urbano">Mobiliário urbano</option>
+                                            <option value="Revista">Revista</option>
+                                            <option value="Outdoor">Outdoor</option>
+                                            <option value="Internet">Internet</option>
+                                    </select>
+                <input type="submit" value="ENVIAR" class="btn-default">
+            </form>
+        </div>
     </div>
 </div>
     </div>
@@ -917,7 +739,7 @@
         <!--[if lt IE 8]>
         <![endif]-->
         <!--Fim dos arquivos Javascript-->
-        <script src="/assets/website/js/app-20190411.js?v=123"></script>
+        <script src="../assets/website/js/app-20190411.js?v=123"></script>
 
     
 
@@ -943,7 +765,146 @@
 </script>
 
 
+
 	<script>
+        $('.consultant_chatbot').click(function() {
+            $('.wrap-p-smk-o').children().click();
+        });
+
+		$(document).ready(function(){
+			$('.wrap-dez-formas .slider').slick({
+				arrows: true,
+				appendArrows: '.append-slider-dez-formas',
+				centerPadding: '45px',
+				infinite: true
+			});
+			$('.wrap-total-slider .slider').slick({
+				dots: false,
+				arrows: false
+				// appendArrows: '.append-cresca.append-arrows',
+				// appendDots: '.append-cresca.append-dots'
+			});
+
+			$('.wrap-total-mkt .slider').slick({
+				appendArrows: '.append-arrows-mkt',
+				responsive: [
+				{
+					breakpoint: 980,
+					settings: {
+						arrows: false,
+						dots: true,
+						appendDots: '.append-arrows-mkt'
+					}
+				}]
+			});
+			/*
+			$('.wrap-destaque-txt .slider').slick({
+				dots: false,
+				arrows: true,
+				appendArrows: '.append-arrows-depoimento',
+			});
+			*/
+			$('.wrap-viagens-premios .slider').slick({
+				dots: false,
+				arrows: true,
+				appendArrows: '.append-slider-dez-formas',
+
+			});
+			$('.wrap-plano-carreira .slider').slick({
+				dots: false,
+				arrows: true,
+				centerMode: true,
+				appendArrows: '.append-slider-dez-formas',
+				centerPadding: '100px',
+				variableWidth: true,
+				infinite: false,
+				focusOnSelect: true,
+				responsive: [
+				{
+					breakpoint: 1024,
+					settings: {
+						centerPadding: '0',
+						variableWidth: false
+					}
+				}]
+			});
+
+            (function(countryCode){
+
+                var ar = '5';
+                var bo = '6';
+                var co = '2';
+                var ec = '7';
+				var pe = '3';
+				var mx = '8';
+
+                var mask;
+
+                window.console.log(countryCode);
+
+                switch(countryCode) {
+                    case ar :
+                        mask = '+54 (9[9][9][9]) 99999999';
+                        break;
+                    case bo :
+                        mask = '+5\\91 (9) 9999999[9]';
+                        break;
+                    case co :
+                        mask = '+57 (9[9][9]) 9999999999[9]';
+                        break;
+                    case ec :
+                        mask = '+5\\93 (9[9]) 9999999[9]';
+                        break;
+                    case pe :
+                        mask = '+51 (9[9][9]) 999999999[9][9]';
+						break;
+					case mx :
+                        mask = '';
+                        break;
+                    default:
+                        mask = "(99) 9999-9999[9]";
+                }
+
+                $('#ipt-form1-3').inputmask({
+                    mask: mask,
+                    placeholder: '',
+                    keepStatic: true,
+                    clearIncomplete: true
+                });
+            })('1');
+
+
+			$('#ipt-form1-4').mask('99999-999');
+
+			$('.wrap-destaque-txt .item-depoimento').slick({
+				dots: false,
+				arrows: true,
+				slidesToShow: 3,
+				slidesToScroll: 3,
+				appendArrows: '.append-arrows-depoimento',
+				responsive: [
+					{
+						breakpoint: 980,
+						settings: {
+							slidesToShow: 2,
+							slidesToScroll: 2,
+							infinite: true,
+							dots: true,
+							arrows: false
+						}
+					},
+					{
+						breakpoint: 768,
+						settings: {
+							slidesToShow: 1,
+							slidesToScroll: 1,
+							arrows: false,
+							dots: true,
+						}
+					}
+				]
+			});
+		});
 		$(document).on('click', 'a[href^="#"]', function (event) {
 			event.preventDefault();
 
@@ -951,57 +912,79 @@
 				scrollTop: $($.attr(this, 'href')).offset().top
 			}, 500);
 		});
-		$('.slider-lancamentos').slick({
-			dots: true,
-			infinite: true,
-			arrows: false
-		});
-		$('.wrap-premios-marca').slick({
-			dots: false,
-			appendArrows: '.append-arrows',
-			responsive: [
-			{
-				breakpoint: 980,
-				settings: {
-					arrows: false,
-					dots: true
-				}
-			}]
-		});
+	</script>
 
-		$('.slider-brands').slick({
-			dots: false,
-			appendArrows: '.arrows-brands',
-			arrows: true,
-			slidesToShow: 4,
-			slidesToScroll: 4,
-			autoplaySpeed: 5000,
-			responsive: [
-				{
-					breakpoint: 980,
-					settings: {
-						slidesToShow: 3,
-						slidesToScroll: 3,
-					}
-				},
-				{
-					breakpoint: 768,
-					settings: {
-						slidesToShow: 2,
-						slidesToScroll: 2,
-						autoplaySpeed: 3000,
-					}
-				},
-				{
-					breakpoint: 500,
-					settings: {
-						slidesToShow: 1,
-						slidesToScroll: 1,
-					}
+	<!-- Envio Formulario -->
+	<script>
+		$('form[name="faca-parte"]').submit(function (e) {
+			e.preventDefault();
+
+			var url = $(this).attr('action');
+			var params = {};
+			$.each($(this).serializeArray(), function(_, kv) {
+				params[kv.name] = kv.value;
+			});
+
+			let isValid = true;
+
+			let objER = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9]+(?:\.[a-zA-Z0-9-]+)*$/;
+			if(objER.test(params.email)) {
+				$('#ipt-form1-2-error').hide();
+				$('#ipt-form1-2').removeClass('input-error');
+			} else {
+				$('#ipt-form1-2-error').show();
+				$('#ipt-form1-2').addClass('input-error');
+				isValid = false;
+			}
+
+			if (params.country !== 2 && params.country !== 3) {
+				objER = /^[0-9]{5}-[0-9]{3}$/;
+				if(objER.test(params.zipcode)) {
+					$('#ipt-form1-4-error').hide();
+					$('#ipt-form1-4').removeClass('input-error');
+				} else {
+					$('#ipt-form1-4-error').show();
+					$('#ipt-form1-4').addClass('input-error');
+					isValid = false;
 				}
-            ]
+			}
+
+            // objER = /^(?:\()[0-9]{2}(?:\))\s?[0-9]{4,5}(?:-)[0-9]{4,5}$/;
+			// if(objER.test(params.phone)) {
+            if(params.phone !== null) {
+				$('#ipt-form1-3-error').hide();
+				$('#ipt-form1-3').removeClass('input-error');
+			} else {
+				$('#ipt-form1-3-error').show();
+				$('#ipt-form1-3').addClass('input-error');
+				isValid = false;
+			}
+
+			if(params.name == 0) {
+				$('#ipt-form1-1-error').show();
+				$('#ipt-form1-1').addClass('input-error');
+				isValid = false;
+			} else {
+				$('#ipt-form1-1-error').hide();
+				$('#ipt-form1-1').removeClass('input-error');
+			}
+
+			if (isValid) {
+				axios.post(url, params)
+				.then(function (response) {
+					var status = response.data.success? 'success': 'warning';
+					var title = response.data.success? 'Sucesso': 'Ops!';
+					var message = response.data.message;
+					swal(title, message, status);
+				})
+				.catch(function (error) {
+                    swal('Falha', 'Ops, tente novamente mais tarde.', 'error');
+                });
+			} else {
+				swal('Falha', 'Verifique se seus dados estão corretos e tente novamente.!', 'error');
+			}
 			
 		});
 	</script>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXXxEXGABFVlpUQw==","queueTime":0,"applicationTime":152,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXUwsLRhdbQ1VeREwMV1QBHQ==","queueTime":0,"applicationTime":168,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>

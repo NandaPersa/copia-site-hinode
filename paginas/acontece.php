@@ -14,27 +14,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="Q6zbIJpj-zQZbhRw5SDdhWBP-IcPWRiKUnhvFkYDXCQ" />
     <link rel="stylesheet" href="../assets/website/css/estilo-20190822.css?v=1">
-    <script src="/assets/website/js/jquery-3.2.1.min.js"></script>
-    <script src="/assets/website/js/jquery.validate.min.js"></script>
-    <script src="/assets/website/js/slick.min.js"></script>
-    <script src="/assets/website/js/jquery.mask.js"></script>
-    <link rel="stylesheet" href="/assets/website/css/slick.css">
-    <link rel="stylesheet" href="/assets/website/css/map-styles.css">
+    <script src="../assets/website/js/jquery-3.2.1.min.js"></script>
+    <script src="../assets/website/js/jquery.validate.min.js"></script>
+    <script src="../assets/website/js/slick.min.js"></script>
+    <script src="../assets/website/js/jquery.mask.js"></script>
+    <link rel="stylesheet" href="../assets/website/css/slick.css">
+    <link rel="stylesheet" href="../assets/website/css/map-styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/css/inputmask.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBdbJmnnwSV-R5bzygMolEHUkLhVkxS1Jc"></script>
     <script type="text/javascript" src="https://hinode.teleperformance.com.br/HinodeWebApi/AppChat2/chatTP.js"></script>
     <link rel="shortcut icon" href="/assets/website/images/favicon.png">
-    <script src="/assets/website/js/snazzy-info-window.js"></script>
-    <title>Hinode Center | Grupo Hinode</title>
-<meta name="description" content="Retire e experimente produtos, participe de cursos e treinamentos e torne-se um consultor do Grupo Hinode no Hinode Center! Confira!">
-<link rel="canonical" href="https://grupohinode.com/hinode-center"/>
-<meta property="og:title" content="Hinode Center | Grupo Hinode" />
-<meta property="og:description" content="Retire e experimente produtos, participe de cursos e treinamentos e torne-se um consultor do Grupo Hinode no Hinode Center! Confira!" />
+    <script src="../assets/website/js/snazzy-info-window.js"></script>
+    <title>Acontece | Grupo Hinode</title>
+<link rel="canonical" href="https://grupohinode.com/noticias"/>
+<meta property="og:title" content="Acontece | Grupo Hinode" />
 <meta property="og:image" content="https://grupohinode.com/assets/website/images/grupo-hinode-fb-image.jpg" />
 
-<meta name="twitter:title" content="Hinode Center | Grupo Hinode" />
-<meta name="twitter:description" content="Retire e experimente produtos, participe de cursos e treinamentos e torne-se um consultor do Grupo Hinode no Hinode Center! Confira!" />
+<meta name="twitter:title" content="Acontece | Grupo Hinode" />
+<meta name="twitter:description" content="" />
 
     <style>
         .input-datepicker {
@@ -44,10 +42,7 @@
 </head>
 <body>
 
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6GVZV8"
-                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+   
     <div class="wrap-header-total">
   <header class="header">
     <div class="grid1240">
@@ -58,14 +53,7 @@
         </a>
       </h1>
       <div class="wrap-right buttons-menu">
-        <div class="itens-lang">
-          <span>LANGUAGE</span>
-          <ul>
-            <li><a href="//grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-pt.png" alt="">PORTUGUES</a></li>
-            <li><a href="//en.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-en.png" alt="">ENGLISH</a></li>
-            <li><a href="//co.grupohinode.com"><img src="https://grupohinode.com/assets/website/images/lang-es.png" alt="">ESPANHOL</a></li>
-          </ul>
-        </div>
+       
         <a href="https://escritorio.hinode.com.br/login" class="btn-entrar" target="_blank">VIRTUAL OFFICE</a>
       </div>
       </div>
@@ -83,42 +71,43 @@
                 <nav class="menu-main">
           <ul class="list-menu-main">
                <li class='item-menu-main'>
-              <a href="grupoHinode.html" class="link-menu-main">
+              <a href="grupoHinode.php" class="link-menu-main">
                 <span>O GRUPO HINODE</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="nossaMarcas.html" class="link-menu-main">
+              <a href="nossaMarcas.php" class="link-menu-main">
                 <span>NOSSAS MARCAS</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="consultores.html" class="link-menu-main">
+              <a href="consultores.php" class="link-menu-main">
                 <span>CONSULTORES(AS)</span>
               </a> 
             </li>
-            <li 
-              class='item-menu-main selected'>
-              <a href="hinodeCenter.html" class="link-menu-main">
+            <li class='item-menu-main'>
+              <a href="hinodeCenter.php" class="link-menu-main">
                 <span>HINODE CENTER</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="universidadeHinode.html" class="link-menu-main">
+              <a href="universidadeHinode.php" class="link-menu-main">
                 <span>UNIVERSIDADE HINODE</span>
               </a>
             </li>
-                        <li class='item-menu-main item-hide-m'>
-              <a href="acontece.html" class="link-menu-main">
+                        <li 
+              class='item-menu-main item-hide-m selected'>
+              <a href="acontece.php" class="link-menu-main">
                 <span>ACONTECE</span>
               </a>
             </li>
             <li class='item-menu-main'>
-              <a href="calendario.html" class="link-menu-main">
+              <a href="calendario.php" class="link-menu-main">
                 <span>CALENDÁRIO</span>
               </a>
             </li>
-            <li class='item-menu-main sub-menu-item'>
+            <li 
+              class='item-menu-main sub-menu-item selected'>
               <a href="javascript:;" class="link-menu-main">
                 <span>ACONTECE</span>
               </a>
@@ -298,112 +287,50 @@
 
     <div id="app">
         
-	<div class="wrap-sliders-hinode">
-    <div class="slider">
-                <div class="slide" style="background-image: url(https://grupohinode.com/assets/website/images/hinode-center-slider-2.jpg)">
-        </div>
-                <div class="slide" style="background-image: url(https://grupohinode.com/assets/website/images/hinode-center-slider-3.jpg)">
-        </div>
-                <div class="slide" style="background-image: url(https://grupohinode.com/assets/website/images/slider-hinode-center-4.jpg)">
-        </div>
+    <div class="wrap-sub-menu">
+    <nav class="grid1240">
+        <ul class="list-sub-menu itens-center submenu-acontece">
+                            <li class="item-sub-menu"><a class="link-sub-menu" href="/noticias">NOTÍCIAS</a></li>
+                            <li class="item-sub-menu"><a class="link-sub-menu" href="/contato">CONTATO</a></li>
+                    </ul>
+    </nav>
+</div>
+    <div class="wrap-universidade-mkt wrap-acontece-banner">
+    <section class="wrap-marketing">
+                    <div class="slider-universidade-txt">
+                <div class="item background-universidade background-acontece-eventos"  style="background-image:url(https://hinode-grupo.s3.sa-east-1.amazonaws.com/post/d2de9592/image_1280x546.jpeg);">
+                    <img src="https://hinode-grupo.s3.sa-east-1.amazonaws.com/post/d2de9592/featured_image_1280x546.jpeg" alt="">
+                    <div class="grid930">
+                        <div class="content-txt">
+                            <h2 class="title-slider-white">NA MÍDIA</h2>
+                            <p class="txt-slider-white">Acompanhe as principais notícias sobre o Grupo Hinode, Hinode e HND.</p>
+                            <a href="https://hinode-grupo.s3.sa-east-1.amazonaws.com/post/1c383cd3/f0fb5471/na-midia.jpeg" target="_blank" class="btn-default">SAIBA MAIS</a>
+                        </div>
+                    </div>
+                </div>
             </div>
-    <div class="append-arrows"></div>
-    <div class="grid-slider">
-        <div class="txt-banner-white">
-            <h2>FAÇA PARTE<br />E VENÇA JUNTO<br /> COM A GENTE</h2>
-            <p>
-                O Grupo Hinode possui duas marcas<br />
-                        consolidadas no mercado com cerca de 600<br />
-                        produtos, dentre eles perfumaria, bem-estar,<br />
-                        higiene pessoal, maquiagem e cosméticos.
-            </p>
-            <a href="#seja-um-franqueado" class="btn-default">SEJA UM FRANQUEADO</a>
+            </section>
+    <div class="append-arrows append-slider-marketing"></div>
+</div>
+
+    <div class="search-bar search-bar-noticias" id="search-bar">
+    <div class="grid1015">
+        <div class="default-inputs">
+            <h3>BUSCAR NOTÍCIAS</h3>
+            <form action="#search-bar" id="frmSearch" style="height: 40px;">
+                <input type="text" name="palavra-chave" value="" placeholder="Palavra-chave" class="ipt-text">
+                <input type="submit" class="ipt-submit" value="">
+                <div class="ipt-datepicker-select">
+                    <datepicker :language="datepickerlocale" :typeable="true" format="dd/MM/yyyy" name="data" placeholder="Data" @input="submitForm('#frmSearch')" ></datepicker>
+                </div>
+            </form>
         </div>
     </div>
 </div>
-	<section class="wrap-hinode-center">
-    <h3 class="title-section-default">Um lugar completo</h3>
-    <div class="grid940">
-        <ul class="list-icons-hinode-center">
-                            <li class="item-icons-hinode-center">
-                    <div class="container-icons-hinode-center">
-                        <img src="https://grupohinode.com/assets/website/images/icon-hinode-center1.png" alt="">
-                    </div>
-                    <p>retirar e <br> experimentar<br> produtos</p>
-                </li>
-                            <li class="item-icons-hinode-center">
-                    <div class="container-icons-hinode-center">
-                        <img src="https://grupohinode.com/assets/website/images/icon-hinode-center2.png" alt="">
-                    </div>
-                    <p>participar de<br> treinamentos e<br> cursos</p>
-                </li>
-                            <li class="item-icons-hinode-center">
-                    <div class="container-icons-hinode-center">
-                        <img src="https://grupohinode.com/assets/website/images/icon-hinode-center3.png" alt="">
-                    </div>
-                    <p>fazer reuniões</p>
-                </li>
-                            <li class="item-icons-hinode-center">
-                    <div class="container-icons-hinode-center">
-                        <img src="https://grupohinode.com/assets/website/images/icon-hinode-center4.png" alt="">
-                    </div>
-                    <p>tornar-se<br> consultor</p>
-                </li>
-                    </ul>
-    </div>
+    <section class="news">
+   <posts-list title="MAIS NOTÍCIAS" :initial-data="{&quot;current_page&quot;:1,&quot;data&quot;:[{&quot;id&quot;:82,&quot;title&quot;:&quot;Mar\u00edlia Rocca- Voc\u00ea S\/A - junho 2019&quot;,&quot;description&quot;:&quot;Confira a mat\u00e9ria da nossa CEO Mar\u00edlia Roca na revista Voc\u00ea S\/A&quot;,&quot;type&quot;:&quot;news&quot;,&quot;subtype_id&quot;:null,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/497c412f\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/497c412f&quot;,&quot;size&quot;:75594,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/497c412f\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.png&quot;,&quot;path&quot;:&quot;post\/497c412f\/conversions\/image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/497c412f\/conversions&quot;,&quot;size&quot;:75594,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/497c412f\/conversions\/image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:{&quot;name&quot;:&quot;featured_image&quot;,&quot;filename&quot;:&quot;featured_image_354x200.png&quot;,&quot;path&quot;:&quot;post\/497c412f\/featured_image_354x200.png&quot;,&quot;basePath&quot;:&quot;post\/497c412f&quot;,&quot;size&quot;:75594,&quot;extension&quot;:&quot;png&quot;,&quot;mimeType&quot;:&quot;image\/png&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/497c412f\/featured_image_354x200.png&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]},&quot;pdf&quot;:{&quot;name&quot;:&quot;marilia-rocca-voce-sa-junho-2019&quot;,&quot;filename&quot;:&quot;marilia-rocca-voce-sa-junho-2019.pdf&quot;,&quot;path&quot;:&quot;post\/497c412f\/marilia-rocca-voce-sa-junho-2019.pdf&quot;,&quot;basePath&quot;:&quot;post\/497c412f&quot;,&quot;size&quot;:2886020,&quot;extension&quot;:&quot;pdf&quot;,&quot;mimeType&quot;:&quot;application\/pdf&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/497c412f\/marilia-rocca-voce-sa-junho-2019.pdf&quot;},&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2019-06-07 14:51:52&quot;,&quot;updated_at&quot;:&quot;2019-06-07 14:51:52&quot;,&quot;order&quot;:null,&quot;created_at_formatted&quot;:&quot;07\/06\/2019&quot;,&quot;short_description&quot;:&quot;Confira a mat\u00e9ria da nossa CEO Mar\u00edlia Roca na revista Voc\u00ea S\/A&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/497c412f\/featured_image_354x200.png&quot;},{&quot;id&quot;:81,&quot;title&quot;:&quot;Universa UOL - Maio 2019&quot;,&quot;description&quot;:&quot;T\u00f4nico facial Routine: com adstringente, tem vitaminas B5 e sais minerais.&quot;,&quot;type&quot;:&quot;news&quot;,&quot;subtype_id&quot;:null,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/38e8377d\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/38e8377d&quot;,&quot;size&quot;:15501,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/38e8377d\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/38e8377d\/conversions\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/38e8377d\/conversions&quot;,&quot;size&quot;:15501,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/38e8377d\/conversions\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:{&quot;name&quot;:&quot;universa-uol-maio-2019&quot;,&quot;filename&quot;:&quot;universa-uol-maio-2019.jpeg&quot;,&quot;path&quot;:&quot;post\/38e8377d\/universa-uol-maio-2019.jpeg&quot;,&quot;basePath&quot;:&quot;post\/38e8377d&quot;,&quot;size&quot;:54417,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/38e8377d\/universa-uol-maio-2019.jpeg&quot;},&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2019-05-21 10:08:17&quot;,&quot;updated_at&quot;:&quot;2019-05-21 10:08:17&quot;,&quot;order&quot;:null,&quot;created_at_formatted&quot;:&quot;21\/05\/2019&quot;,&quot;short_description&quot;:&quot;T\u00f4nico facial Routine: com adstringente, tem vitaminas B5 e sais minerais.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/38e8377d\/image_354x200.jpeg&quot;},{&quot;id&quot;:74,&quot;title&quot;:&quot;Hinode Mattify na Revista Quem&quot;,&quot;description&quot;:&quot;TUTORIAL: APRENDA A FAZER UM BOC\u00c3O VERMELHO COM EFEITO MOLHADO - Abril\/2019&quot;,&quot;type&quot;:&quot;news&quot;,&quot;subtype_id&quot;:null,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/9cb8c658\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/9cb8c658&quot;,&quot;size&quot;:27016,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/9cb8c658\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/9cb8c658\/conversions\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/9cb8c658\/conversions&quot;,&quot;size&quot;:27016,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/9cb8c658\/conversions\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:{&quot;name&quot;:&quot;hinode-mattify-na-revista-quem&quot;,&quot;filename&quot;:&quot;hinode-mattify-na-revista-quem.pdf&quot;,&quot;path&quot;:&quot;post\/9cb8c658\/hinode-mattify-na-revista-quem.pdf&quot;,&quot;basePath&quot;:&quot;post\/9cb8c658&quot;,&quot;size&quot;:2161149,&quot;extension&quot;:&quot;pdf&quot;,&quot;mimeType&quot;:&quot;application\/pdf&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/9cb8c658\/hinode-mattify-na-revista-quem.pdf&quot;},&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2019-05-14 12:05:01&quot;,&quot;updated_at&quot;:&quot;2019-05-14 12:05:01&quot;,&quot;order&quot;:null,&quot;created_at_formatted&quot;:&quot;14\/05\/2019&quot;,&quot;short_description&quot;:&quot;TUTORIAL: APRENDA A FAZER UM BOC\u00c3O VERMELHO COM EFEITO MOLHADO - Abril\/2019&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/9cb8c658\/image_354x200.jpeg&quot;},{&quot;id&quot;:73,&quot;title&quot;:&quot;Sun Kissed na Revista Malu - Abril\/2019&quot;,&quot;description&quot;:&quot;Destaque com Aprovado na Revista Malu sobre o Bronzer Sun Kissed!&quot;,&quot;type&quot;:&quot;news&quot;,&quot;subtype_id&quot;:null,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/f86d3e79\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/f86d3e79&quot;,&quot;size&quot;:19561,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/f86d3e79\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/f86d3e79\/conversions\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/f86d3e79\/conversions&quot;,&quot;size&quot;:19561,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/f86d3e79\/conversions\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:{&quot;name&quot;:&quot;featured_image&quot;,&quot;filename&quot;:&quot;featured_image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/f86d3e79\/featured_image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/f86d3e79&quot;,&quot;size&quot;:19561,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/f86d3e79\/featured_image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]},&quot;pdf&quot;:{&quot;name&quot;:&quot;sun-kissed-na-revista-malu-abril2019&quot;,&quot;filename&quot;:&quot;sun-kissed-na-revista-malu-abril2019.pdf&quot;,&quot;path&quot;:&quot;post\/f86d3e79\/sun-kissed-na-revista-malu-abril2019.pdf&quot;,&quot;basePath&quot;:&quot;post\/f86d3e79&quot;,&quot;size&quot;:2005237,&quot;extension&quot;:&quot;pdf&quot;,&quot;mimeType&quot;:&quot;application\/pdf&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/f86d3e79\/sun-kissed-na-revista-malu-abril2019.pdf&quot;},&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2019-05-07 16:32:34&quot;,&quot;updated_at&quot;:&quot;2019-05-07 16:32:34&quot;,&quot;order&quot;:null,&quot;created_at_formatted&quot;:&quot;07\/05\/2019&quot;,&quot;short_description&quot;:&quot;Destaque com Aprovado na Revista Malu sobre o Bronzer Sun Kissed!&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/f86d3e79\/featured_image_354x200.jpeg&quot;},{&quot;id&quot;:72,&quot;title&quot;:&quot;Linha Sens na Cosm\u00e9ticos BR - Mar\u00e7o\/2019&quot;,&quot;description&quot;:&quot;A proposta da Hinode em cuidados di\u00e1rios para os seus Sabonetes em Barra \u00e9 de\r\nfragr\u00e2ncias indulgentes \u2013 Floralis, Naturals&quot;,&quot;type&quot;:&quot;news&quot;,&quot;subtype_id&quot;:null,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/8b67041d\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/8b67041d&quot;,&quot;size&quot;:29032,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8b67041d\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/8b67041d\/conversions\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/8b67041d\/conversions&quot;,&quot;size&quot;:29032,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8b67041d\/conversions\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:{&quot;name&quot;:&quot;featured_image&quot;,&quot;filename&quot;:&quot;featured_image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/8b67041d\/featured_image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/8b67041d&quot;,&quot;size&quot;:29032,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8b67041d\/featured_image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]},&quot;pdf&quot;:{&quot;name&quot;:&quot;linha-sens-na-cosmeticos-br-marco2019&quot;,&quot;filename&quot;:&quot;linha-sens-na-cosmeticos-br-marco2019.pdf&quot;,&quot;path&quot;:&quot;post\/8b67041d\/linha-sens-na-cosmeticos-br-marco2019.pdf&quot;,&quot;basePath&quot;:&quot;post\/8b67041d&quot;,&quot;size&quot;:59701432,&quot;extension&quot;:&quot;pdf&quot;,&quot;mimeType&quot;:&quot;application\/pdf&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8b67041d\/linha-sens-na-cosmeticos-br-marco2019.pdf&quot;},&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2019-05-07 16:10:15&quot;,&quot;updated_at&quot;:&quot;2019-05-07 16:10:15&quot;,&quot;order&quot;:null,&quot;created_at_formatted&quot;:&quot;07\/05\/2019&quot;,&quot;short_description&quot;:&quot;A proposta da Hinode em cuidados di\u00e1rios para os seus Sabonetes em Barra \u00e9 de\r\nfragr\u00e2ncias indulgentes \u2013 Floralis, Naturals&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8b67041d\/featured_image_354x200.jpeg&quot;},{&quot;id&quot;:67,&quot;title&quot;:&quot;Routine Age Reverse Booster no Universa UOL&quot;,&quot;description&quot;:&quot;O S\u00e9rum \u00e9 destaque em mat\u00e9ria sobre efeito Cinderela&quot;,&quot;type&quot;:&quot;news&quot;,&quot;subtype_id&quot;:null,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/02fdabd8\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/02fdabd8&quot;,&quot;size&quot;:19052,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/02fdabd8\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/02fdabd8\/conversions\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/02fdabd8\/conversions&quot;,&quot;size&quot;:19052,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/02fdabd8\/conversions\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:{&quot;name&quot;:&quot;routine-age-reverse-booster-no-universa-uol&quot;,&quot;filename&quot;:&quot;routine-age-reverse-booster-no-universa-uol.pdf&quot;,&quot;path&quot;:&quot;post\/02fdabd8\/routine-age-reverse-booster-no-universa-uol.pdf&quot;,&quot;basePath&quot;:&quot;post\/02fdabd8&quot;,&quot;size&quot;:1159597,&quot;extension&quot;:&quot;pdf&quot;,&quot;mimeType&quot;:&quot;application\/pdf&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/02fdabd8\/routine-age-reverse-booster-no-universa-uol.pdf&quot;},&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2019-02-26 12:41:17&quot;,&quot;updated_at&quot;:&quot;2019-02-26 12:41:17&quot;,&quot;order&quot;:null,&quot;created_at_formatted&quot;:&quot;26\/02\/2019&quot;,&quot;short_description&quot;:&quot;O S\u00e9rum \u00e9 destaque em mat\u00e9ria sobre efeito Cinderela&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/02fdabd8\/image_354x200.jpeg&quot;},{&quot;id&quot;:66,&quot;title&quot;:&quot;Dazzle Summer na Revista Claudia&quot;,&quot;description&quot;:&quot;Mat\u00e9ria na Revista Claudia com a linha Dazzle Summer Viber no m\u00eas de Fevereiro de 2019.&quot;,&quot;type&quot;:&quot;news&quot;,&quot;subtype_id&quot;:null,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/8d68c824\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/8d68c824&quot;,&quot;size&quot;:13091,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8d68c824\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/8d68c824\/conversions\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/8d68c824\/conversions&quot;,&quot;size&quot;:13091,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8d68c824\/conversions\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:{&quot;name&quot;:&quot;featured_image&quot;,&quot;filename&quot;:&quot;featured_image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/8d68c824\/featured_image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/8d68c824&quot;,&quot;size&quot;:13091,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8d68c824\/featured_image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]},&quot;pdf&quot;:{&quot;name&quot;:&quot;dazzle-summer-na-revista-claudia&quot;,&quot;filename&quot;:&quot;dazzle-summer-na-revista-claudia.pdf&quot;,&quot;path&quot;:&quot;post\/8d68c824\/dazzle-summer-na-revista-claudia.pdf&quot;,&quot;basePath&quot;:&quot;post\/8d68c824&quot;,&quot;size&quot;:7762293,&quot;extension&quot;:&quot;pdf&quot;,&quot;mimeType&quot;:&quot;application\/pdf&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8d68c824\/dazzle-summer-na-revista-claudia.pdf&quot;},&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2019-02-06 10:58:18&quot;,&quot;updated_at&quot;:&quot;2019-02-06 11:00:41&quot;,&quot;order&quot;:null,&quot;created_at_formatted&quot;:&quot;06\/02\/2019&quot;,&quot;short_description&quot;:&quot;Mat\u00e9ria na Revista Claudia com a linha Dazzle Summer Viber no m\u00eas de Fevereiro de 2019.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/8d68c824\/featured_image_354x200.jpeg&quot;},{&quot;id&quot;:65,&quot;title&quot;:&quot;Hinode: bilh\u00f5es em perfumes, marketing multin\u00edvel e autoajuda&quot;,&quot;description&quot;:&quot;Acredito na venda direta cl\u00e1ssica\&quot;, diz o presidente, Sandro Rodrigues. Leia a entrevista.&quot;,&quot;type&quot;:&quot;news&quot;,&quot;subtype_id&quot;:null,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/16814ec0\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/16814ec0&quot;,&quot;size&quot;:31138,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/16814ec0\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/16814ec0\/conversions\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/16814ec0\/conversions&quot;,&quot;size&quot;:31138,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/16814ec0\/conversions\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:{&quot;name&quot;:&quot;featured_image&quot;,&quot;filename&quot;:&quot;featured_image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/fc490ca4\/52e55671\/featured_image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/fc490ca4\/52e55671&quot;,&quot;size&quot;:31138,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/fc490ca4\/52e55671\/featured_image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]},&quot;pdf&quot;:{&quot;name&quot;:&quot;hinode-bilhoes-em-perfumes-marketing-multinivel-e-autoajuda&quot;,&quot;filename&quot;:&quot;hinode-bilhoes-em-perfumes-marketing-multinivel-e-autoajuda.pdf&quot;,&quot;path&quot;:&quot;post\/16814ec0\/hinode-bilhoes-em-perfumes-marketing-multinivel-e-autoajuda.pdf&quot;,&quot;basePath&quot;:&quot;post\/16814ec0&quot;,&quot;size&quot;:1069936,&quot;extension&quot;:&quot;pdf&quot;,&quot;mimeType&quot;:&quot;application\/pdf&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/16814ec0\/hinode-bilhoes-em-perfumes-marketing-multinivel-e-autoajuda.pdf&quot;},&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2019-02-05 18:36:30&quot;,&quot;updated_at&quot;:&quot;2019-02-05 18:52:44&quot;,&quot;order&quot;:null,&quot;created_at_formatted&quot;:&quot;05\/02\/2019&quot;,&quot;short_description&quot;:&quot;Acredito na venda direta cl\u00e1ssica\&quot;, diz o presidente, Sandro Rodrigues. Leia a entrevista.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/fc490ca4\/52e55671\/featured_image_354x200.jpeg&quot;},{&quot;id&quot;:64,&quot;title&quot;:&quot;Hinode investe em maquiagem de ver\u00e3o&quot;,&quot;description&quot;:&quot;Marca Dazzle de maquiagens e fragr\u00e2ncias da Hinode acaba de ganhar um refor\u00e7o para o ver\u00e3o.&quot;,&quot;type&quot;:&quot;news&quot;,&quot;subtype_id&quot;:null,&quot;image&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/ea5d2f1c\/4850d8e7\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/ea5d2f1c\/4850d8e7&quot;,&quot;size&quot;:28608,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/ea5d2f1c\/4850d8e7\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:{&quot;thumb&quot;:{&quot;name&quot;:&quot;image&quot;,&quot;filename&quot;:&quot;image_354x200.jpeg&quot;,&quot;path&quot;:&quot;post\/ea5d2f1c\/4850d8e7\/conversions\/image_354x200.jpeg&quot;,&quot;basePath&quot;:&quot;post\/ea5d2f1c\/4850d8e7\/conversions&quot;,&quot;size&quot;:28608,&quot;extension&quot;:&quot;jpeg&quot;,&quot;mimeType&quot;:&quot;image\/jpeg&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/ea5d2f1c\/4850d8e7\/conversions\/image_354x200.jpeg&quot;,&quot;width&quot;:354,&quot;height&quot;:200,&quot;conversions&quot;:[]}}},&quot;featured_image&quot;:null,&quot;pdf&quot;:{&quot;name&quot;:&quot;hinode-investe-em-maquiagem-de-verao&quot;,&quot;filename&quot;:&quot;hinode-investe-em-maquiagem-de-verao.pdf&quot;,&quot;path&quot;:&quot;post\/01404045\/hinode-investe-em-maquiagem-de-verao.pdf&quot;,&quot;basePath&quot;:&quot;post\/01404045&quot;,&quot;size&quot;:1353502,&quot;extension&quot;:&quot;pdf&quot;,&quot;mimeType&quot;:&quot;application\/pdf&quot;,&quot;url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/01404045\/hinode-investe-em-maquiagem-de-verao.pdf&quot;},&quot;featured&quot;:false,&quot;created_at&quot;:&quot;2019-01-28 11:14:38&quot;,&quot;updated_at&quot;:&quot;2019-02-05 18:31:15&quot;,&quot;order&quot;:null,&quot;created_at_formatted&quot;:&quot;28\/01\/2019&quot;,&quot;short_description&quot;:&quot;Marca Dazzle de maquiagens e fragr\u00e2ncias da Hinode acaba de ganhar um refor\u00e7o para o ver\u00e3o.&quot;,&quot;featured_image_url&quot;:&quot;https:\/\/hinode-grupo.s3.sa-east-1.amazonaws.com\/post\/ea5d2f1c\/4850d8e7\/image_354x200.jpeg&quot;}],&quot;first_page_url&quot;:&quot;?page=1&quot;,&quot;from&quot;:1,&quot;last_page&quot;:5,&quot;last_page_url&quot;:&quot;?page=5&quot;,&quot;next_page_url&quot;:&quot;?page=2&quot;,&quot;path&quot;:&quot;&quot;,&quot;per_page&quot;:9,&quot;prev_page_url&quot;:null,&quot;to&quot;:9,&quot;total&quot;:38,&quot;has_more_pages&quot;:true}"></posts-list>
 </section>
-	<section class="wrap-franqueado-img">
-    <div class="img-mobile"></div>
-    <div class="wrap-seja-franqueado" id="seja-um-franqueado">
-        <div class="wrap-faca-parte-form grid1015">
-            <div class="wrap-grid-two grid-wrap-txt">
-                <h3 class="title-franqueado">SEJA UM FRANQUEADO<br />E VENÇA COM A GENTE</h3>
-                <p>Faça seu cadastro agora mesmo e venha fazer parte da família Hinode.</p>
-                <img class="logo" src="https://grupohinode.com/assets/website/images/abf-logo.png">
-                <img class="logo mg-left" src="https://grupohinode.com/assets/website/images/selo-excelencia.png">
-            </div>
-            <div class="wrap-grid-two form-color fixed-height-form">
-                <div class="new-register form-default">
-                    <form name="faca-parte" method="post" action="https://grupohinode.com/consultores-hinode/cadastrar">
-                        <input type="hidden" name="utm_source" value="">
-                        <input type="hidden" name="utm_content" value="">
 
-                        <input type="text" id="ipt-form1-1" name="name" required placeholder="Insira seu nome">
-                        <p id="ipt-form1-1-error" class="error-msg msg-erro-left">Por favor verifique se o nome está preenchido corretamente.</p>
-                        <input type="text" id="ipt-form1-2" name="email" required placeholder="Insira seu e-mail">
-                        <p id="ipt-form1-2-error" class="error-msg msg-erro-left">Por favor verifique se o email está preenchido corretamente.</p>
-                        <input type="text" id="ipt-form1-3" name="phone" required placeholder="Telefone">
-                        <p id="ipt-form1-3-error" class="error-msg msg-erro-left">Por favor verifique se o telefone está preenchido corretamente.</p>
-                        <input type="text" id="ipt-form1-4" name="zipcode" required placeholder="CEP">
-                        <p id="ipt-form1-4-error" class="error-msg msg-erro-left">Por favor verifique se o cep está preenchido corretamente.</p>
-                        <select name="origin" rquired>
-                                                            <option value="0">Como nos conheceu</option>
-                                                            <option value="TV">TV</option>
-                                                            <option value="Rádio">Rádio</option>
-                                                            <option value="Mobiliário urbano">Mobiliário urbano</option>
-                                                            <option value="Revista">Revista</option>
-                                                            <option value="Outdoor">Outdoor</option>
-                                                            <option value="Internet">Internet</option>
-                                                    </select>
-                        <input type="submit" value="ENVIAR" class="btn-default">
-                    </form>
-                </div>
-            </div>
-            <div class="wrap-grid-two wrap-text-franqueado">
-                <p class="disclaimer">
-                    Ainda está com dúvidas? Acesse as outras seções do site <br />
-                    para mais informações ou <a href="">encontre sua dúvida em Ajuda.</a><br />
-                    Caso prefira, <a href="">converse com um de nossos consultores.</a>
-                </p>
-                <div class="flex">
-                    <img class="logo-mobile" src="https://grupohinode.com/assets/website/images/abf-logo.png">
-                    <img class="logo-mobile" src="https://grupohinode.com/assets/website/images/selo-excelencia.png">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-	<franchise-maps></franchise-maps>
     </div>
 
     <div class="bg-menu"></div>
@@ -564,7 +491,7 @@
 </div>
 
 
-    	
+        
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inputmask/3.3.4/jquery.inputmask.bundle.min.js"></script>
 
         <script>
@@ -655,7 +582,7 @@
         <!--[if lt IE 8]>
         <![endif]-->
         <!--Fim dos arquivos Javascript-->
-        <script src="/assets/website/js/app-20190411.js?v=123"></script>
+        <script src="../assets/website/js/app-20190411.js?v=123"></script>
 
     
 
@@ -681,139 +608,5 @@
 </script>
 
 
-
-	<script id="marker-content-template" type="text/x-handlebars-template">
-		<div class="custom-img" style="background-image: url({{{bgImg}}})"></div>
-		<section class="custom-content">
-			<h1 class="custom-header">
-				{{title}}
-			</h1>
-			<div class="custom-body">{{{body}}}</div>
-		</section>
-	</script>
-
-	<script>
-		$(document).ready(function(){
-			$('a[href^="#"]').click(function(){
-				var hash = this.hash;
-				$('html, body').animate({
-					scrollTop: $(hash).offset().top
-				}, 800, function(){
-
-			// Add hash (#) to URL when done scrolling (default click behavior)
-			window.location.hash = hash;
-		});
-			});
-			$('.wrap-sliders-hinode .slider').slick({
-				appendArrows: '.append-arrows',
-				arrows: true,
-				dots: false,
-				responsive: [
-				{
-					breakpoint: 768,
-					settings: {
-						dots: true
-					}
-				}]
-			});
-			$('#ipt-form1-3').mask('(99) 9999-99998', {
-				translation: {
-					'8': {
-						pattern: /[0-9]/, optional: true
-					}
-				}
-			});
-			$('#ipt-form1-4').mask('99999-999');
-			$('.wrap-destaque-txt .item-depoimento').slick({
-				responsive: [
-				{
-					breakpoint: 9999,
-					settings: "unslick"
-				},
-				{
-					breakpoint: 980,
-					settings: {
-						slidesToShow: 1,
-						slidesToScroll: 1,
-						infinite: true,
-						dots: true,
-						arrows: false
-					}
-				}
-				]
-			});
-
-		});
-	</script>
-
-	<!-- Envio Formulario -->
-	<script>
-        $('form[name="faca-parte"]').submit(function (e) {
-            e.preventDefault();
-			
-            var url = $(this).attr('action');
-            var params = {};
-            $.each($(this).serializeArray(), function(_, kv) {
-                params[kv.name] = kv.value;
-            });
-
-			let isValid = true;
-
-			let objER = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9]+(?:\.[a-zA-Z0-9-]+)*$/;
-			if(objER.test(params.email)) {
-				$('#ipt-form1-2-error').hide();
-				$('#ipt-form1-2').removeClass('input-error');
-			} else {
-				$('#ipt-form1-2-error').show();
-				$('#ipt-form1-2').addClass('input-error');
-				isValid = false;
-			}
-
-			objER = /^[0-9]{5}-[0-9]{3}$/;
-			if(objER.test(params.zipcode)) {
-				$('#ipt-form1-4-error').hide();
-				$('#ipt-form1-4').removeClass('input-error');
-			} else {
-				$('#ipt-form1-4-error').show();
-				$('#ipt-form1-4').addClass('input-error');
-				isValid = false;
-			}
-
-			objER = /^(?:\()[0-9]{2}(?:\))\s?[0-9]{4,5}(?:-)[0-9]{4,5}$/;
-			if(objER.test(params.phone)) {
-				$('#ipt-form1-3-error').hide();
-				$('#ipt-form1-3').removeClass('input-error');
-			} else {
-				$('#ipt-form1-3-error').show();
-				$('#ipt-form1-3').addClass('input-error');
-				isValid = false;
-			}
-
-			if(params.name == 0) {
-				$('#ipt-form1-1-error').show();
-				$('#ipt-form1-1').addClass('input-error');
-				isValid = false;
-			} else {
-				$('#ipt-form1-1-error').hide();
-				$('#ipt-form1-1').removeClass('input-error');
-			}
-
-			if (isValid) {
-				axios.post(url, params)
-                .then(function (response) {
-                    var status = response.data.success? 'success': 'warning';
-                    var title = response.data.success? 'Sucesso': 'Ops!';
-                    var message = response.data.message;
-                    swal(title, message, status);
-                })
-                .catch(function (error) {
-                    swal('Falha', 'Ops, tente novamente mais tarde.', 'error');
-                });
-			} else {
-				swal('Falha', 'Verifique se seus dados estão corretos e tente novamente.!', 'error');
-			}
-			
-        });
-	</script>
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXWA0LWgZSaFdVXhYASx4NC1EHTw==","queueTime":0,"applicationTime":190,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1b953179e8","applicationID":"114541227","transactionName":"ZwcHbUIFC0YDVENdX15NJFpEDQpbTUBSVkNZFgAXWAUVRQdZGV1eVAcd","queueTime":0,"applicationTime":235,"atts":"S0AEGwofGEg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
